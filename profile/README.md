@@ -1,6 +1,6 @@
 ![Peekling characters gathered in a bright, welcoming landscape](./assets/peekling-community-banner.png)
 
-# Meet the little friends that live on the web
+# Let’s make the web feel more alive ✨
 
 Peeklings are small animated characters that can join a website quietly, playfully, and without getting in the way. Come meet them, imagine your own, or help us build what comes next.
 
