@@ -1,13 +1,6 @@
 ![Peekling 角色们聚集在明亮而温馨的风景中](./assets/peekling-community-banner.png)
 
-| | | |
-| --- | --- | --- |
-| [English](./README.md) | [Español](./README.es.md) | [简体中文](./README.zh-CN.md) |
-| [한국어](./README.ko.md) | [日本語](./README.ja.md) | [Nederlands](./README.nl.md) |
-| [العربية](./README.ar.md) | [Tiếng Việt](./README.vi.md) | [Русский](./README.ru.md) |
-| [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Português (Brasil)](./README.pt-BR.md) |
-| [Deutsch](./README.de.md) | [Italiano](./README.it.md) | [Bahasa Indonesia](./README.id.md) |
-| [Türkçe](./README.tr.md) | [Polski](./README.pl.md) | [বাংলা](./README.bn.md) |
+[EN](./README.md) · [ES](./README.es.md) · [ZH](./README.zh-CN.md) · [KO](./README.ko.md) · [JA](./README.ja.md) · [NL](./README.nl.md) · [AR](./README.ar.md) · [VI](./README.vi.md) · [RU](./README.ru.md) · [FR](./README.fr.md) · [HI](./README.hi.md) · [PT-BR](./README.pt-BR.md) · [DE](./README.de.md) · [IT](./README.it.md) · [ID](./README.id.md) · [TR](./README.tr.md) · [PL](./README.pl.md) · [BN](./README.bn.md)
 
 # 让网络世界更有生气 ✨
 
