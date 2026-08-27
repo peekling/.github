@@ -1,17 +1,37 @@
-# Peekling
+# Hello, we're Peekling
 
-Peekling is an open source project for expressive animated web characters. It helps developers and character creators build companions that feel at home on a website.
+**A little character can make the web feel more alive.**
 
-Learn more at [peekling.com](https://peekling.com).
+Peekling is an open source project for expressive animated web characters: small companions made to bring warmth, motion, and personality to a website without getting in the way.
+
+We are working toward a simple idea: anyone should be able to welcome a Peekling into their corner of the web and make it feel at home there.
+
+## What is a Peekling?
+
+A Peekling is a small animated companion with its own look, personality, and way of responding to the page around it. It lives alongside a website, adding a little life while letting the page stay itself.
+
+## You are welcome here
+
+Whether you came to meet the characters, learn something new, draw, write, animate, code, teach, build for a company, or simply see what is taking shape, we are glad you found us.
+
+Students and first-time makers can experiment. Artists and writers can imagine new personalities. Developers can bring interactions to life. Companies can help make digital spaces feel more human. People who simply enjoy having a small companion around are every bit as much a part of the picture.
+
+Whatever brings you here, curiosity is enough to begin.
+
+## Come make it with us
+
+You do not need to arrive with code or a finished idea. Look around, ask a question, share feedback, dream up a character, or tell us where a Peekling could feel at home. If you spot something you can improve, open an issue or send a focused contribution. Art, stories, documentation, and code are all ways to help.
 
 ## Public repositories
 
-- [peekling-characters](https://github.com/peekling/peekling-characters) is the official monorepo for independently versioned character packs.
+- [peekling-characters](https://github.com/peekling/peekling-characters) is home to the official character packs.
 - [.github](https://github.com/peekling/.github) publishes the README shown on this organization page.
 
-## Explore and contribute
+## Growing together
 
-Take a look through the repositories. If you spot something to improve, open an issue or send a focused contribution. Developers and character creators are both welcome.
+Peekling is growing one public piece at a time. As more pieces become available, we want the journey to feel natural: meet a character, get to know it, try it, add it to a website, make it your own, and share what you learn with the community.
+
+Some parts of that journey are still ahead. We will introduce them only when they are ready, and each public piece should make it easier for the next person to join in.
 
 <!--
 FUTURE PUBLIC ECOSYSTEM COPY
