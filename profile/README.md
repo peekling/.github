@@ -1,10 +1,8 @@
-# Hello, we're Peekling
+![Peekling characters gathered in a bright, welcoming landscape](./assets/peekling-community-banner.png)
 
-**A little character can make the web feel more alive.**
+# Bring a little life to the open web
 
-Peekling is an open source project for expressive animated web characters: small companions made to bring warmth, motion, and personality to a website without getting in the way.
-
-We are working toward a simple idea: anyone should be able to welcome a Peekling into their corner of the web and make it feel at home there.
+Peekling is an open-source web mascot runtime for expressive animated companions—made for anyone who wants to give a website a little more personality.
 
 ## What is a Peekling?
 
