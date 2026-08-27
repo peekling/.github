@@ -1,14 +1,14 @@
 ![Peekling characters gathered in a bright, welcoming landscape](./assets/peekling-community-banner.png)
 
-# Let's make the web feel more alive
+# Meet the little friends that live on the web
 
-Peekling is an open project for small animated friends that live on websites. Come meet them, imagine new ones, and help us build what comes next.
+Peeklings are small animated characters that can join a website quietly, playfully, and without getting in the way. Come meet them, imagine your own, or help us build what comes next.
 
 ## What is a Peekling?
 
 A Peekling is a small animated companion with its own look, personality, and way of responding to the page around it. It lives alongside a website, adding a little life while letting the page stay itself.
 
-Behind the characters, Peekling is an open-source web mascot runtime: shared code and tools that help these companions move, react, and feel at home on a page.
+Behind the characters, Peekling is an open-source browser runtime for small, data-only animated characters. It helps them move and react without sending telemetry or page data to a backend.
 
 ## You are welcome here
 
