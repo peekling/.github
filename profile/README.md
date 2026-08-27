@@ -63,4 +63,4 @@ Peekling is growing beyond individual character packs into a welcoming place to 
 These experiences are planned and are not publicly available yet. When they are ready, this organization will be the place to find them.
 -->
 
-![A bright grassy meadow with wildflowers, a winding path, and distant floating islands](./assets/peekling-meadow-footer-v1.png)
+![A narrow strip of grass, wildflowers, foliage, and a winding path](./assets/peekling-ground-footer-v1.png)
