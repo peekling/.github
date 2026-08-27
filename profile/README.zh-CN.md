@@ -1,7 +1,5 @@
 ![Peekling 角色们聚集在明亮而温馨的风景中](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # 让网络世界更有生气 ✨
 
 Peeklings 是一群小巧的动画角色。它们可以安静、俏皮地来到网站上，却不会妨碍你。来认识它们，构想属于你的角色，或与我们一起创造接下来的一切。
@@ -65,5 +63,9 @@ Peekling 正在超越单独的角色包，成长为一个温馨的空间，让�
 
 这些体验已在规划中，目前尚未公开开放。准备就绪后，你可以在这个组织中找到它们。
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![一条狭长的草地，上面有野花、枝叶和一条蜿蜒的小径](./assets/peekling-ground-footer-v1.png)

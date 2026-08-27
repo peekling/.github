@@ -1,7 +1,5 @@
 ![밝고 따뜻한 풍경에 함께 모인 Peekling 캐릭터들](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # 웹을 더 생동감 있게 만들어 봐요 ✨
 
 Peeklings는 웹사이트에 조용하고 장난스럽게 찾아와 방해하지 않고 함께할 수 있는 작은 애니메이션 캐릭터입니다. 이들을 만나고, 나만의 캐릭터를 상상하거나, 다음 모습을 함께 만들어 주세요.
@@ -65,5 +63,9 @@ Peekling은 개별 캐릭터 팩을 넘어, 표현력 있는 웹 친구를 발�
 
 이러한 경험은 계획 중이며 아직 공개되지 않았습니다. 준비가 되면 이 조직에서 찾을 수 있습니다.
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![잔디와 야생화, 잎사귀와 구불구불한 길이 이어지는 가느다란 풍경](./assets/peekling-ground-footer-v1.png)

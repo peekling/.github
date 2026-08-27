@@ -1,7 +1,5 @@
 ![एक उजले और स्वागतपूर्ण दृश्य में साथ आए Peekling किरदार](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # आइए वेब को और जीवंत बनाएँ ✨
 
 Peeklings छोटे एनिमेटेड किरदार हैं जो किसी वेबसाइट पर चुपचाप और खेल-खेल में शामिल हो सकते हैं, बिना किसी रुकावट के। उनसे मिलने आइए, अपना कोई किरदार सोचिए या आगे बनने वाली चीज़ों में हमारा साथ दीजिए।
@@ -65,5 +63,9 @@ Peekling अलग-अलग किरदार पैक से आगे ब�
 
 इन अनुभवों की योजना बन चुकी है, लेकिन ये अभी सार्वजनिक रूप से उपलब्ध नहीं हैं। तैयार होने पर आप इन्हें इसी संगठन में पाएँगे।
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![घास, जंगली फूलों, पत्तियों और एक घुमावदार रास्ते की पतली पट्टी](./assets/peekling-ground-footer-v1.png)

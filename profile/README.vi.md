@@ -1,7 +1,5 @@
 ![Các nhân vật Peekling tụ họp trong một khung cảnh tươi sáng và thân thiện](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # Hãy cùng làm cho web trở nên sống động hơn ✨
 
 Peeklings là những nhân vật hoạt họa nhỏ có thể xuất hiện trên một trang web theo cách yên lặng, tinh nghịch và không gây vướng víu. Hãy đến gặp các bạn ấy, hình dung một nhân vật của riêng bạn hoặc cùng chúng tôi xây dựng những điều tiếp theo.
@@ -65,5 +63,9 @@ Peekling đang vượt ra ngoài các gói nhân vật riêng lẻ để trở t
 
 Những trải nghiệm này đang được lên kế hoạch và chưa được cung cấp công khai. Khi chúng sẵn sàng, bạn sẽ tìm thấy chúng tại tổ chức này.
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![Một dải cỏ hẹp với hoa dại, tán lá và lối đi uốn lượn](./assets/peekling-ground-footer-v1.png)

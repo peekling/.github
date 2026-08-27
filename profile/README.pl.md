@@ -1,7 +1,5 @@
 ![Postacie Peekling zebrane w jasnym, przyjaznym krajobrazie](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # Sprawmy, by internet stał się bardziej żywy ✨
 
 Peeklings to małe animowane postacie, które mogą dołączyć do strony internetowej po cichu i z odrobiną figlarności, nie przeszkadzając jej użytkownikom. Poznaj je, wyobraź sobie własną postać albo pomóż nam tworzyć to, co nadejdzie.
@@ -65,5 +63,9 @@ Peekling wykracza poza pojedyncze pakiety postaci i staje się przyjaznym miejsc
 
 Te doświadczenia są planowane i nie są jeszcze dostępne publicznie. Gdy będą gotowe, znajdziesz je w tej organizacji.
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![Wąski pas trawy, polnych kwiatów i liści z wijącą się ścieżką](./assets/peekling-ground-footer-v1.png)

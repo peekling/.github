@@ -2,8 +2,6 @@
 
 ![شخصيات Peekling مجتمعة في مشهد مشرق ومرحّب](./assets/peekling-community-banner.png)
 
-[English](./README.md) · [Español](./README.es.md) · [中文](./README.zh-CN.md) · [한국어](./README.ko.md) · [日本語](./README.ja.md) · [Nederlands](./README.nl.md) · [العربية](./README.ar.md) · [Tiếng Việt](./README.vi.md) · [Русский](./README.ru.md) · [Français](./README.fr.md) · [हिन्दी](./README.hi.md) · [Português](./README.pt-BR.md) · [Deutsch](./README.de.md) · [Italiano](./README.it.md) · [Bahasa Indonesia](./README.id.md) · [Türkçe](./README.tr.md) · [Polski](./README.pl.md) · [বাংলা](./README.bn.md)
-
 # لنجعل الويب أكثر حيوية ✨
 
 Peeklings شخصيات متحركة صغيرة يمكنها الانضمام إلى موقع ويب بهدوء ومرح، من دون أن تعترض طريقك. تعال للتعرّف إليها، أو تخيّل شخصيتك الخاصة، أو ساعدنا في بناء ما سيأتي لاحقًا.
@@ -67,6 +65,10 @@ Peekling مفتوح المصدر ومرخّص بموجب Apache 2.0.
 
 هذه التجارب مخطط لها وليست متاحة للعامة بعد. عندما تصبح جاهزة، ستكون هذه المنظمة المكان الذي تجدها فيه.
 -->
+
+<p align="center" dir="ltr">
+  <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
+</p>
 
 ![شريط ضيق من العشب والأزهار البرية وأوراق النباتات ومسار متعرج](./assets/peekling-ground-footer-v1.png)
 
