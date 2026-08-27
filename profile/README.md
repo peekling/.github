@@ -22,7 +22,7 @@ Whatever brings you here, curiosity is enough to begin.
 
 You do not need to arrive with code or a finished idea. Look around, ask a question, share feedback, dream up a character, or tell us where a Peekling could feel at home. If you spot something you can improve, open an issue or send a focused contribution. Art, stories, documentation, and code are all ways to help.
 
-## Public repositories
+## Peekling repositories
 
 - [peekling-characters](https://github.com/peekling/peekling-characters) is home to the official character packs.
 - [.github](https://github.com/peekling/.github) publishes the README shown on this organization page.
