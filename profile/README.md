@@ -27,6 +27,18 @@ You do not need to arrive with code or a finished idea. Look around, ask a quest
 - [peekling-characters](https://github.com/peekling/peekling-characters) is home to the official character packs.
 - [.github](https://github.com/peekling/.github) publishes the README shown on this organization page.
 
+## Meet Peek
+
+<p align="center">
+  <img src="./assets/peek-thumbnail.png" alt="Peek, the first Peekling" width="96">
+</p>
+
+Peek is the first Peekling. Curious and cheerful, Peek follows pointers and celebrates small wins.
+
+A Peekling is a small character that can live around a website: quietly, playfully, and without getting in the way.
+
+You can create a Peekling of your own and add it to your website. [Follow this guide](https://github.com/peekling/peekling-characters#make-a-character) to begin.
+
 ## Growing together
 
 Peekling is growing one public piece at a time. As more pieces become available, we want the journey to feel natural: meet a character, get to know it, try it, add it to a website, make it your own, and share what you learn with the community.
