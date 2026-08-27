@@ -24,8 +24,9 @@ You do not need to arrive with code or a finished idea. Look around, ask a quest
 
 ## Peekling repositories
 
-- [peekling-characters](https://github.com/peekling/peekling-characters) is home to the official character packs.
-- [.github](https://github.com/peekling/.github) publishes the README shown on this organization page.
+| Repository | Description |
+| --- | --- |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Home to the official character packs. |
 
 ## Meet Peek
 
