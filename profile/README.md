@@ -1,5 +1,14 @@
 ![Peekling characters gathered in a bright, welcoming landscape](./assets/peekling-community-banner.png)
 
+| | | |
+| --- | --- | --- |
+| [English](./README.md) | [Español](./README.es.md) | [简体中文](./README.zh-CN.md) |
+| [한국어](./README.ko.md) | [日本語](./README.ja.md) | [Nederlands](./README.nl.md) |
+| [العربية](./README.ar.md) | [Tiếng Việt](./README.vi.md) | [Русский](./README.ru.md) |
+| [Français](./README.fr.md) | [हिन्दी](./README.hi.md) | [Português (Brasil)](./README.pt-BR.md) |
+| [Deutsch](./README.de.md) | [Italiano](./README.it.md) | [Bahasa Indonesia](./README.id.md) |
+| [Türkçe](./README.tr.md) | [Polski](./README.pl.md) | [বাংলা](./README.bn.md) |
+
 # Let’s make the web feel more alive ✨
 
 Peeklings are small animated characters that can join a website quietly, playfully, and without getting in the way. Come meet them, imagine your own, or help us build what comes next.
