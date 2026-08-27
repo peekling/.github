@@ -63,4 +63,4 @@ Peekling is growing beyond individual character packs into a welcoming place to 
 These experiences are planned and are not publicly available yet. When they are ready, this organization will be the place to find them.
 -->
 
-![A narrow strip of grass, wildflowers, foliage, and a winding path](./assets/peekling-ground-footer-v1.png)
+![A shallow carpet of grass, small flowers, and leafy plants](./assets/peekling-greenery-footer-v1.png)
