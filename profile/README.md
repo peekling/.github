@@ -30,7 +30,7 @@ You do not need to arrive with code or a finished idea. Look around, ask a quest
 ## Meet Peek
 
 <p align="center">
-  <img src="./assets/peek-thumbnail.png" alt="Peek, the first Peekling" width="96">
+  <img src="./assets/peek-wave-wink-v1.gif" alt="Peek, the first Peekling, waving, winking, and smiling" width="200">
 </p>
 
 Peek is the first Peekling. Curious and cheerful, Peek follows pointers and celebrates small wins.
@@ -44,6 +44,8 @@ You can create a Peekling of your own and add it to your website. [Follow this g
 Peekling is growing one public piece at a time. As more pieces become available, we want the journey to feel natural: meet a character, get to know it, try it, add it to a website, make it your own, and share what you learn with the community.
 
 Some parts of that journey are still ahead. We will introduce them only when they are ready, and each public piece should make it easier for the next person to join in.
+
+Peekling is open source and licensed under Apache 2.0.
 
 <!--
 FUTURE PUBLIC ECOSYSTEM COPY
