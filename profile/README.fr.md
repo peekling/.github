@@ -25,11 +25,11 @@ Chaque élément a un rôle précis. Le moteur charge et affiche le personnage. 
 
 Que vous soyez venu rencontrer les personnages, apprendre quelque chose, dessiner, écrire, animer, programmer, enseigner, créer pour une entreprise ou simplement découvrir ce qui prend forme, nous sommes heureux que vous nous ayez trouvés.
 
-- Les élèves, les étudiants et les personnes qui créent pour la première fois peuvent expérimenter.
-- Les artistes et les auteurs peuvent imaginer de nouvelles personnalités.
-- Les développeurs peuvent donner vie aux interactions.
-- Les entreprises peuvent contribuer à rendre les espaces numériques plus humains.
-- Les personnes qui apprécient simplement la présence d’un petit compagnon font tout autant partie de l’aventure.
+- **Les élèves, les étudiants et les personnes qui créent pour la première fois** peuvent expérimenter dans leurs portfolios ou leurs projets personnels.
+- **Les artistes et les auteurs** peuvent imaginer de nouvelles personnalités.
+- **Les développeurs** peuvent donner vie aux interactions.
+- **Les entreprises** peuvent contribuer à rendre les espaces numériques plus humains.
+- **Les personnes qui apprécient simplement la présence d’un petit compagnon** font tout autant partie de l’aventure.
 
 Quelle que soit la raison de votre présence, la curiosité suffit pour commencer.
 

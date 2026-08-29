@@ -25,11 +25,11 @@ Każda część ma jasno określone zadanie. Silnik ładuje i wyświetla postać
 
 Niezależnie od tego, czy chcesz poznać postacie, nauczyć się czegoś nowego, rysować, pisać, animować, programować, uczyć, tworzyć dla firmy czy po prostu zobaczyć, co nabiera tu kształtów, cieszymy się, że do nas trafiasz.
 
-- Uczniowie, studenci i osoby stawiające pierwsze kroki w tworzeniu mogą eksperymentować.
-- Artyści i autorzy mogą wymyślać nowe osobowości.
-- Programiści mogą ożywiać interakcje.
-- Firmy mogą pomagać w tworzeniu bardziej ludzkich przestrzeni cyfrowych.
-- Osoby, które po prostu lubią mieć w pobliżu małego towarzysza, są równie ważną częścią tej opowieści.
+- **Uczniowie, studenci i osoby stawiające pierwsze kroki w tworzeniu** mogą eksperymentować w portfolio lub projektach pobocznych.
+- **Artyści i autorzy** mogą wymyślać nowe osobowości.
+- **Programiści** mogą ożywiać interakcje.
+- **Firmy** mogą pomagać w tworzeniu bardziej ludzkich przestrzeni cyfrowych.
+- **Osoby, które po prostu lubią mieć w pobliżu małego towarzysza**, są równie ważną częścią tej opowieści.
 
 Cokolwiek cię tu sprowadza, ciekawość wystarczy, by zacząć.
 

@@ -25,11 +25,11 @@ The pieces have clear jobs. The engine loads and renders. A Pack holds the chara
 
 Whether you came to meet the characters, learn something new, draw, write, animate, code, teach, build for a company, or simply see what is taking shape, we are glad you found us.
 
-- Students and first-time makers can experiment.
-- Artists and writers can imagine new personalities.
-- Developers can bring interactions to life.
-- Companies can help make digital spaces feel more human.
-- People who simply enjoy having a small companion around are every bit as much a part of the picture.
+- **Students and first-time makers** can experiment with portfolios or side projects.
+- **Artists and writers** can imagine new personalities.
+- **Developers** can bring interactions to life.
+- **Companies** can help make digital spaces feel more human.
+- **People who simply enjoy having a small companion around** are every bit as much a part of the picture.
 
 Whatever brings you here, curiosity is enough to begin.
 

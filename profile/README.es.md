@@ -25,11 +25,11 @@ Cada pieza tiene una función clara. El motor carga y representa el personaje. U
 
 Ya sea que hayas venido a conocer a los personajes, aprender algo nuevo, dibujar, escribir, animar, programar, enseñar, crear para una empresa o simplemente ver qué está tomando forma, nos alegra que nos hayas encontrado.
 
-- Quienes estudian o crean por primera vez pueden experimentar.
-- Artistas y escritores pueden imaginar nuevas personalidades.
-- Los desarrolladores pueden dar vida a las interacciones.
-- Las empresas pueden ayudar a que los espacios digitales se sientan más humanos.
-- Quienes simplemente disfrutan de tener cerca a un pequeño compañero forman parte de todo esto por igual.
+- **Quienes estudian o crean por primera vez** pueden experimentar con portafolios y proyectos personales.
+- **Artistas y escritores** pueden imaginar nuevas personalidades.
+- **Los desarrolladores** pueden dar vida a las interacciones.
+- **Las empresas** pueden ayudar a que los espacios digitales se sientan más humanos.
+- **Quienes simplemente disfrutan de tener cerca a un pequeño compañero** forman parte de todo esto por igual.
 
 Sea cual sea el motivo que te trae hasta aquí, basta con tener curiosidad para empezar.
 

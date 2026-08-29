@@ -25,11 +25,11 @@ Setiap bagian memiliki tugas yang jelas. Engine memuat dan merender karakter. Pa
 
 Baik kamu datang untuk bertemu para karakter, mempelajari sesuatu yang baru, menggambar, menulis, membuat animasi, menulis kode, mengajar, membangun sesuatu untuk perusahaan, maupun sekadar melihat apa yang sedang terbentuk, kami senang kamu menemukan kami.
 
-- Pelajar dan orang yang baru pertama kali berkarya dapat bereksperimen.
-- Seniman dan penulis dapat membayangkan kepribadian baru.
-- Pengembang dapat menghidupkan interaksi.
-- Perusahaan dapat membantu membuat ruang digital terasa lebih manusiawi.
-- Orang yang sekadar senang ditemani sosok kecil pun merupakan bagian yang sama pentingnya dari gambaran ini.
+- **Pelajar dan orang yang baru pertama kali berkarya** dapat bereksperimen dengan portofolio atau proyek sampingan.
+- **Seniman dan penulis** dapat membayangkan kepribadian baru.
+- **Pengembang** dapat menghidupkan interaksi.
+- **Perusahaan** dapat membantu membuat ruang digital terasa lebih manusiawi.
+- **Orang yang sekadar senang ditemani sosok kecil** pun merupakan bagian yang sama pentingnya dari gambaran ini.
 
 Apa pun yang membawamu ke sini, rasa ingin tahu sudah cukup untuk memulai.
 

@@ -25,11 +25,11 @@ Ogni elemento ha un compito preciso. Il motore carica e visualizza il personaggi
 
 Che tu sia qui per conoscere i personaggi, imparare qualcosa di nuovo, disegnare, scrivere, animare, programmare, insegnare, creare per un’azienda o semplicemente vedere cosa sta prendendo forma, siamo felici che tu ci abbia trovato.
 
-- Studenti e persone alle prime esperienze creative possono sperimentare.
-- Artisti e scrittori possono immaginare nuove personalità.
-- Chi sviluppa può dare vita alle interazioni.
-- Le aziende possono contribuire a rendere gli spazi digitali più umani.
-- Anche chi ama semplicemente avere un piccolo compagno nei paraggi fa parte a pieno titolo di questo insieme.
+- **Studenti e persone alle prime esperienze creative** possono sperimentare con portfolio e progetti personali.
+- **Artisti e scrittori** possono immaginare nuove personalità.
+- **Chi sviluppa** può dare vita alle interazioni.
+- **Le aziende** possono contribuire a rendere gli spazi digitali più umani.
+- **Chi ama semplicemente avere un piccolo compagno nei paraggi** fa parte a pieno titolo di questo insieme.
 
 Qualunque cosa ti abbia portato qui, la curiosità basta per cominciare.
 

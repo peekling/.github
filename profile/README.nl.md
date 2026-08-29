@@ -25,11 +25,11 @@ Elk onderdeel heeft een duidelijke taak. De engine laadt en rendert. Een Pack be
 
 Of je nu komt om de personages te ontmoeten, iets nieuws te leren, te tekenen, te schrijven, te animeren, te programmeren, les te geven, iets voor een bedrijf te bouwen of gewoon te zien wat hier ontstaat, we zijn blij dat je ons hebt gevonden.
 
-- Studenten en beginnende makers kunnen experimenteren.
-- Kunstenaars en schrijvers kunnen nieuwe persoonlijkheden bedenken.
-- Ontwikkelaars kunnen interacties tot leven brengen.
-- Bedrijven kunnen digitale omgevingen menselijker helpen maken.
-- Ook mensen die het gewoon fijn vinden om een klein gezelschap in de buurt te hebben, horen er helemaal bij.
+- **Studenten en beginnende makers** kunnen experimenteren met portfolio's en nevenprojecten.
+- **Kunstenaars en schrijvers** kunnen nieuwe persoonlijkheden bedenken.
+- **Ontwikkelaars** kunnen interacties tot leven brengen.
+- **Bedrijven** kunnen digitale omgevingen menselijker helpen maken.
+- **Mensen die het gewoon fijn vinden om een klein gezelschap in de buurt te hebben** horen er helemaal bij.
 
 Wat je hier ook brengt, nieuwsgierigheid is genoeg om te beginnen.
 
