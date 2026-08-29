@@ -34,7 +34,8 @@ Buraya gelme nedeniniz ne olursa olsun, başlamak için merak yeterlidir.
 Kodla veya tamamlanmış bir fikirle gelmeniz gerekmez. Kendinizi yakın hissettiğiniz bölümü seçin:
 
 - **Runtime'ı geliştirin**: [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Bir karakter çizin, canlandırın veya iyileştirin**: [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Resmî bir karakteri iyileştirin**: [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Topluluk tarafından oluşturulan bir karakteri paylaşın**: [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Geliştiriciler ya da sanatçılar için bir iş akışı oluşturun**: [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Gelecekteki masaüstü uygulamasını şekillendirin**: yakında gelecek [peekling-desktop](https://github.com/peekling/peekling-desktop).
 - **Peeklings'i Chrome'a getirin**: yakında gelecek [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension).
@@ -47,6 +48,7 @@ Büyümesini istediğiniz projelere yıldız verin. Issues, odaklı pull request
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | Sayfayı ele geçirmeden Peeklings'in hareket etmesini ve tepki vermesini sağlayan bağımlılıksız tarayıcı runtime'ı, doğrulama araçları, CLI ve entegrasyonlar. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Yalnızca veriden oluşan resmî karakter Packs. Her Pack çizimlerini, kimliğini, durumlarını, zamanlamasını ve lisansını içerir. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | Topluluk tarafından oluşturulan karakterlerin seçilmiş koleksiyonu. Her katkı lisans ve hak kaydıyla birlikte eksiksiz, yalnızca veriden oluşan bir Pack içerir. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Packs'i tasarlamak, oluşturmak, entegre etmek, denetlemek ve yayımlamak için taşınabilir agent iş akışları. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peeklings için yerel bir masaüstü yuvası. Yakında. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Peeklings'i seçtiğiniz sayfalara getiren bir Chrome uzantısı. Yakında. |
@@ -61,7 +63,7 @@ Peek ilk Peekling'dir. Meraklı ve neşeli Peek, işaretçileri takip eder ve k�
 
 Peekling, bir web sitesinin çevresinde sessizce ve neşeyle, araya girmeden yaşayabilen küçük bir karakterdir.
 
-Kendi Peekling'inizi oluşturup web sitenize ekleyebilirsiniz. Başlamak için [bu kılavuzu izleyin](https://github.com/peekling/peekling-characters#make-a-character).
+Kendi Peekling'inizi oluşturabilir, toplulukla paylaşabilir ve web sitenize ekleyebilirsiniz. [Topluluk Pack kılavuzuyla başlayın](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Birlikte büyümek
 

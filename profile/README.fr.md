@@ -34,7 +34,8 @@ Quelle que soit la raison de votre présence, la curiosité suffit pour commence
 Vous n’avez pas besoin d’arriver avec du code ou une idée aboutie. Choisissez l’endroit où vous vous sentez à votre place :
 
 - **Développez le runtime** dans [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Dessinez, animez ou améliorez un personnage** dans [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Améliorez un personnage officiel** dans [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Partagez un personnage créé par la communauté** dans [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Créez un workflow pour les développeurs ou les artistes** dans [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Aidez à façonner la future application de bureau** dans [peekling-desktop](https://github.com/peekling/peekling-desktop), bientôt disponible.
 - **Amenez les Peeklings dans Chrome** avec [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), bientôt disponible.
@@ -47,6 +48,7 @@ Ajoutez une étoile aux projets que vous souhaitez voir grandir. Les issues, les
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | Le runtime de navigateur sans dépendance, les outils de validation, la CLI et les intégrations qui font bouger et réagir les Peeklings sans prendre le contrôle de la page. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Les Packs de personnages officiels composés uniquement de données. Chaque Pack contient ses illustrations, son identité, ses états, son rythme et sa licence. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | La collection sélectionnée de personnages créés par la communauté. Chaque contribution comprend un Pack complet composé uniquement de données, avec sa licence et son relevé de droits. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Des workflows portables pour agents afin de concevoir, créer, intégrer, auditer et publier des Packs Peekling. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Un foyer local sur le bureau pour les Peeklings. Bientôt disponible. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Une extension Chrome qui amène les Peeklings sur les pages de votre choix. Bientôt disponible. |
@@ -61,7 +63,7 @@ Peek est le premier Peekling. Curieux et joyeux, Peek suit les pointeurs et cél
 
 Un Peekling est un petit personnage qui peut vivre autour d’un site web avec discrétion et malice, sans jamais gêner.
 
-Vous pouvez créer votre propre Peekling et l’ajouter à votre site web. [Suivez ce guide](https://github.com/peekling/peekling-characters#make-a-character) pour commencer.
+Vous pouvez créer votre propre Peekling, le partager avec la communauté et l’ajouter à votre site web. [Commencez par le guide des Packs communautaires](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Grandir ensemble
 

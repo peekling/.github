@@ -34,7 +34,8 @@ Peekling 是一个小巧的动画伙伴，拥有自己的外观、个性，以�
 你不需要带着代码或完整的想法来到这里。选择一个让你感到自在的方向：
 
 - **构建运行时**，前往 [peekling-engine](https://github.com/peekling/peekling-engine)。
-- **绘制、制作动画或改进角色**，前往 [peekling-characters](https://github.com/peekling/peekling-characters)。
+- **改进官方角色**，前往 [peekling-characters](https://github.com/peekling/peekling-characters)。
+- **分享社区创作的角色**，前往 [awesome-peeklings](https://github.com/peekling/awesome-peeklings)。
 - **为开发者或艺术家创建工作流程**，前往 [peekling-skills](https://github.com/peekling/peekling-skills)。
 - **参与塑造未来的桌面应用**，前往即将推出的 [peekling-desktop](https://github.com/peekling/peekling-desktop)。
 - **把 Peekling 带进 Chrome**，前往即将推出的 [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)。
@@ -47,6 +48,7 @@ Peekling 是一个小巧的动画伙伴，拥有自己的外观、个性，以�
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | 零依赖的浏览器运行时、验证工具、CLI 和集成，让 Peekling 可以移动和响应，同时不会接管页面。 |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | 官方纯数据角色 Pack。每个 Pack 都包含自己的美术资源、身份、状态、时序和许可证。 |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | 精选的社区角色合集。每项投稿都是完整的纯数据 Pack，并附有许可证和权利声明。 |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | 用于设计、创建、集成、审核和发布 Peekling Pack 的可移植智能体工作流程。 |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peekling 的本地桌面家园。即将推出。 |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | 把 Peekling 带到你所选择页面的 Chrome 扩展。即将推出。 |
@@ -61,7 +63,7 @@ Peek 是第一个 Peekling。它好奇又开朗，会跟随指针，也会庆祝
 
 Peekling 是一个可以陪伴在网站周围的小角色，安静、俏皮，却不会妨碍你。
 
-你可以创建自己的 Peekling，并把它添加到你的网站中。[按照这份指南](https://github.com/peekling/peekling-characters#make-a-character)即可开始。
+你可以创建自己的 Peekling，与社区分享，再把它添加到网站中。[先阅读社区 Pack 投稿指南](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md)。
 
 ## 一起成长
 

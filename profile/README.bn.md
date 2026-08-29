@@ -34,7 +34,8 @@ Peekling হলো একটি ছোট অ্যানিমেটেড স�
 আপনাকে কোড বা সম্পূর্ণ তৈরি কোনো ধারণা নিয়ে আসতে হবে না। যে অংশে নিজেকে স্বচ্ছন্দ মনে হয়, সেটি বেছে নিন:
 
 - **রানটাইম তৈরি করুন** [peekling-engine](https://github.com/peekling/peekling-engine)-এ।
-- **কোনো চরিত্র আঁকুন, অ্যানিমেট করুন বা উন্নত করুন** [peekling-characters](https://github.com/peekling/peekling-characters)-এ।
+- **কোনো আনুষ্ঠানিক চরিত্র উন্নত করুন** [peekling-characters](https://github.com/peekling/peekling-characters)-এ।
+- **কমিউনিটির তৈরি কোনো চরিত্র শেয়ার করুন** [awesome-peeklings](https://github.com/peekling/awesome-peeklings)-এ।
 - **ডেভেলপার বা শিল্পীদের জন্য ওয়ার্কফ্লো তৈরি করুন** [peekling-skills](https://github.com/peekling/peekling-skills)-এ।
 - **ভবিষ্যতের ডেস্কটপ অ্যাপ গড়ে তুলতে সাহায্য করুন** শিগগির আসছে এমন [peekling-desktop](https://github.com/peekling/peekling-desktop)-এ।
 - **Peeklings-কে Chrome-এ নিয়ে আসুন** শিগগির আসছে এমন [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)-এর মাধ্যমে।
@@ -47,6 +48,7 @@ Peekling হলো একটি ছোট অ্যানিমেটেড স�
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | ডিপেন্ডেন্সিবিহীন ব্রাউজার রানটাইম, যাচাইয়ের টুল, CLI ও ইন্টিগ্রেশন, যা পেজের নিয়ন্ত্রণ না নিয়েই Peeklings-কে চলতে ও সাড়া দিতে সাহায্য করে। |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | শুধু ডেটা দিয়ে তৈরি আনুষ্ঠানিক চরিত্র Packs। প্রতিটি Pack-এ তার শিল্পকর্ম, পরিচয়, স্টেট, সময় ও লাইসেন্স থাকে। |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | কমিউনিটির তৈরি চরিত্রের বাছাই করা সংগ্রহ। প্রতিটি জমায় একটি সম্পূর্ণ, শুধু ডেটা দিয়ে তৈরি Pack, লাইসেন্স এবং অধিকারবিষয়ক নথি থাকে। |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Packs ডিজাইন, তৈরি, ইন্টিগ্রেট, অডিট ও প্রকাশ করার জন্য বহনযোগ্য এজেন্ট ওয়ার্কফ্লো। |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peeklings-এর জন্য একটি স্থানীয় ডেস্কটপ ঠিকানা। শিগগির আসছে। |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | আপনার বেছে নেওয়া পেজে Peeklings নিয়ে আসার Chrome এক্সটেনশন। শিগগির আসছে। |
@@ -61,7 +63,7 @@ Peek হলো প্রথম Peekling। কৌতূহলী ও হাস�
 
 Peekling হলো একটি ছোট চরিত্র, যা কোনো ওয়েবসাইটের আশপাশে নীরবে ও খেলাচ্ছলে থাকতে পারে, অথচ কাজে বাধা দেয় না।
 
-আপনি নিজের Peekling তৈরি করে ওয়েবসাইটে যোগ করতে পারেন। শুরু করতে [এই নির্দেশিকা অনুসরণ করুন](https://github.com/peekling/peekling-characters#make-a-character)।
+আপনি নিজের Peekling তৈরি করে কমিউনিটির সঙ্গে শেয়ার করতে এবং ওয়েবসাইটে যোগ করতে পারেন। [কমিউনিটি Pack নির্দেশিকা দিয়ে শুরু করুন](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md)।
 
 ## একসঙ্গে বেড়ে ওঠা
 

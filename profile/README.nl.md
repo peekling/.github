@@ -34,7 +34,8 @@ Wat je hier ook brengt, nieuwsgierigheid is genoeg om te beginnen.
 Je hoeft niet met code of een uitgewerkt idee aan te komen. Kies het onderdeel waar jij je thuis voelt:
 
 - **Bouw aan de runtime** in [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Teken, animeer of verbeter een personage** in [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Verbeter een officieel personage** in [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Deel een personage van de community** in [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Maak een workflow voor ontwikkelaars of kunstenaars** in [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Help de toekomstige desktopapp vorm te geven** in [peekling-desktop](https://github.com/peekling/peekling-desktop), binnenkort beschikbaar.
 - **Breng Peeklings naar Chrome** in [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), binnenkort beschikbaar.
@@ -47,6 +48,7 @@ Geef de projecten die je wilt zien groeien een ster. Issues, gerichte pull reque
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | De browserruntime zonder afhankelijkheden, validatietools, CLI en integraties die Peeklings laten bewegen en reageren zonder de pagina over te nemen. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Officiële personage-Packs die uitsluitend uit gegevens bestaan. Elk Pack bevat de illustraties, identiteit, toestanden, timing en licentie. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | De samengestelde collectie met personages van de community. Elke inzending is een compleet data-only Pack met een licentie en rechtenverklaring. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Draagbare agentworkflows voor het ontwerpen, maken, integreren, controleren en publiceren van Peekling Packs. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Een lokale desktopplek voor Peeklings. Binnenkort beschikbaar. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Een Chrome-extensie die Peeklings naar de pagina's van jouw keuze brengt. Binnenkort beschikbaar. |
@@ -61,7 +63,7 @@ Peek is de eerste Peekling. Nieuwsgierig en vrolijk volgt Peek aanwijzers en vie
 
 Een Peekling is een klein personage dat rond een website kan leven, rustig en speels, zonder in de weg te zitten.
 
-Je kunt je eigen Peekling maken en aan je website toevoegen. [Volg deze gids](https://github.com/peekling/peekling-characters#make-a-character) om te beginnen.
+Je kunt je eigen Peekling maken, met de community delen en aan je website toevoegen. [Begin met de gids voor community-Packs](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Samen groeien
 

@@ -34,7 +34,8 @@ Peekling представляет собой маленького анимиро
 Необязательно приходить с кодом или готовой идеей. Выберите направление, которое вам ближе:
 
 - **Развивайте среду выполнения** в [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Рисуйте, анимируйте или улучшайте персонажей** в [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Улучшайте официальных персонажей** в [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Делитесь персонажами, созданными сообществом**, в [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Создавайте рабочие процессы для разработчиков и художников** в [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Помогите сформировать будущее настольное приложение** в [peekling-desktop](https://github.com/peekling/peekling-desktop), которое скоро появится.
 - **Принесите Peeklings в Chrome** с [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), которое скоро появится.
@@ -47,6 +48,7 @@ Peekling представляет собой маленького анимиро
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | Браузерная среда выполнения без зависимостей, инструменты проверки, CLI и интеграции, благодаря которым Peeklings двигаются и реагируют, не перехватывая управление страницей. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Официальные Packs персонажей, состоящие только из данных. Каждый Pack хранит свою графику, идентичность, состояния, тайминги и лицензию. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | Отобранная коллекция персонажей от сообщества. Каждая работа содержит полный Pack только из данных, лицензию и сведения о правах. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Переносимые рабочие процессы для агентов, которые помогают проектировать, создавать, интегрировать, проверять и публиковать Peekling Packs. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Локальный настольный дом для Peeklings. Скоро. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Расширение Chrome, которое приносит Peeklings на выбранные вами страницы. Скоро. |
@@ -61,7 +63,7 @@ Peek является первым Peekling. Любопытный и жизне�
 
 Peekling представляет собой маленького персонажа, который может жить рядом с сайтом тихо и игриво, никому не мешая.
 
-Вы можете создать собственного Peekling и добавить его на свой сайт. [Следуйте этому руководству](https://github.com/peekling/peekling-characters#make-a-character), чтобы начать.
+Вы можете создать собственного Peekling, поделиться им с сообществом и добавить его на свой сайт. [Начните с руководства по Pack сообщества](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Растём вместе
 

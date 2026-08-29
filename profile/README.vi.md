@@ -34,7 +34,8 @@ Dù điều gì đưa bạn đến đây, chỉ cần sự tò mò là đủ đ�
 Bạn không cần phải mang theo mã nguồn hay một ý tưởng hoàn chỉnh. Hãy chọn phần khiến bạn cảm thấy phù hợp nhất:
 
 - **Xây dựng runtime** trong [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Vẽ, làm hoạt họa hoặc cải thiện một nhân vật** trong [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Cải thiện một nhân vật chính thức** trong [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Chia sẻ một nhân vật do cộng đồng sáng tạo** trong [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Tạo quy trình cho nhà phát triển hoặc nghệ sĩ** trong [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Góp phần định hình ứng dụng máy tính trong tương lai** tại [peekling-desktop](https://github.com/peekling/peekling-desktop), sắp ra mắt.
 - **Đưa Peeklings vào Chrome** tại [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), sắp ra mắt.
@@ -47,6 +48,7 @@ Hãy tặng sao cho những dự án bạn muốn thấy phát triển. Issues, 
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | Runtime trình duyệt không có phụ thuộc, công cụ xác thực, CLI và các tích hợp giúp Peeklings di chuyển và phản ứng mà không chiếm quyền điều khiển trang. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Các Pack nhân vật chính thức chỉ gồm dữ liệu. Mỗi Pack chứa hình ảnh, danh tính, trạng thái, nhịp thời gian và giấy phép của mình. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | Bộ sưu tập tuyển chọn các nhân vật do cộng đồng sáng tạo. Mỗi đóng góp là một Pack hoàn chỉnh chỉ gồm dữ liệu, kèm giấy phép và hồ sơ quyền sử dụng. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Quy trình agent có thể mang theo để thiết kế, tạo, tích hợp, kiểm tra và phát hành Peekling Packs. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Một ngôi nhà cục bộ trên máy tính cho Peeklings. Sắp ra mắt. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Tiện ích Chrome đưa Peeklings đến những trang bạn chọn. Sắp ra mắt. |
@@ -61,7 +63,7 @@ Peek là Peekling đầu tiên. Tò mò và vui vẻ, Peek đi theo con trỏ v�
 
 Peekling là một nhân vật nhỏ có thể sống quanh một trang web theo cách yên lặng, tinh nghịch và không gây vướng víu.
 
-Bạn có thể tạo Peekling của riêng mình và thêm vào trang web. [Làm theo hướng dẫn này](https://github.com/peekling/peekling-characters#make-a-character) để bắt đầu.
+Bạn có thể tạo Peekling của riêng mình, chia sẻ với cộng đồng rồi thêm vào trang web. [Hãy bắt đầu với hướng dẫn Pack cộng đồng](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Cùng nhau phát triển
 

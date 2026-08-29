@@ -34,7 +34,8 @@ Peekling은 저마다의 모습과 성격, 주변 페이지에 반응하는 방�
 코드나 완성된 아이디어를 준비해서 올 필요는 없습니다. 마음이 가는 부분을 골라 보세요.
 
 - **런타임을 개발하려면** [peekling-engine](https://github.com/peekling/peekling-engine)에 참여하세요.
-- **캐릭터를 그리고 애니메이션으로 만들거나 개선하려면** [peekling-characters](https://github.com/peekling/peekling-characters)에 참여하세요.
+- **공식 캐릭터를 개선하려면** [peekling-characters](https://github.com/peekling/peekling-characters)에 참여하세요.
+- **커뮤니티에서 만든 캐릭터를 공유하려면** [awesome-peeklings](https://github.com/peekling/awesome-peeklings)에 참여하세요.
 - **개발자나 예술가를 위한 워크플로를 만들려면** [peekling-skills](https://github.com/peekling/peekling-skills)에 참여하세요.
 - **앞으로 나올 데스크톱 앱을 함께 만들려면** 곧 공개될 [peekling-desktop](https://github.com/peekling/peekling-desktop)을 찾아 주세요.
 - **Peekling을 Chrome으로 데려오려면** 곧 공개될 [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)을 찾아 주세요.
@@ -47,6 +48,7 @@ Peekling은 저마다의 모습과 성격, 주변 페이지에 반응하는 방�
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | 페이지를 장악하지 않으면서 Peekling이 움직이고 반응하게 하는 무의존성 브라우저 런타임, 검증 도구, CLI, 통합 기능입니다. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | 데이터만으로 구성된 공식 캐릭터 Pack입니다. 각 Pack은 그림, 정체성, 상태, 타이밍, 라이선스를 담습니다. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | 커뮤니티가 만든 캐릭터를 모은 큐레이션 컬렉션입니다. 각 제출물은 라이선스와 권리 기록을 갖춘 완전한 데이터 전용 Pack입니다. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Pack을 설계하고 만들고 통합하고 감사하고 게시하기 위한 이식 가능한 에이전트 워크플로입니다. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peekling을 위한 로컬 데스크톱 공간입니다. 곧 공개됩니다. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | 원하는 페이지에 Peekling을 데려오는 Chrome 확장 프로그램입니다. 곧 공개됩니다. |
@@ -61,7 +63,7 @@ Peek은 첫 번째 Peekling입니다. 호기심 많고 명랑한 Peek은 포인�
 
 Peekling은 웹사이트 주변에서 조용하고 장난스럽게 지내면서 방해하지 않는 작은 캐릭터입니다.
 
-나만의 Peekling을 만들어 웹사이트에 추가할 수 있습니다. [이 가이드](https://github.com/peekling/peekling-characters#make-a-character)를 따라 시작해 보세요.
+나만의 Peekling을 만들어 커뮤니티와 공유하고 웹사이트에 추가할 수 있습니다. [커뮤니티 Pack 가이드](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md)에서 시작해 보세요.
 
 ## 함께 성장하기
 

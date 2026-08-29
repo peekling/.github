@@ -34,7 +34,8 @@ Peekling は、独自の見た目や個性、周囲のページへの反応の�
 コードや完成したアイデアを用意する必要はありません。自分に合う場所を選んでください。
 
 - **ランタイムを開発する**なら [peekling-engine](https://github.com/peekling/peekling-engine)。
-- **キャラクターを描く、動かす、改善する**なら [peekling-characters](https://github.com/peekling/peekling-characters)。
+- **公式キャラクターを改善する**なら [peekling-characters](https://github.com/peekling/peekling-characters)。
+- **コミュニティでつくったキャラクターを共有する**なら [awesome-peeklings](https://github.com/peekling/awesome-peeklings)。
 - **開発者やアーティスト向けのワークフローをつくる**なら [peekling-skills](https://github.com/peekling/peekling-skills)。
 - **将来のデスクトップアプリを一緒につくる**なら、近日公開予定の [peekling-desktop](https://github.com/peekling/peekling-desktop)。
 - **Peekling を Chrome に迎える**なら、近日公開予定の [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)。
@@ -47,6 +48,7 @@ Peekling は、独自の見た目や個性、周囲のページへの反応の�
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | ページを乗っ取ることなく Peekling を動かし、反応させる、依存関係ゼロのブラウザランタイム、検証ツール、CLI、連携機能です。 |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | データのみで構成された公式キャラクター Pack です。各 Pack がアート、個性、状態、タイミング、ライセンスを保持します。 |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | コミュニティ制作のキャラクターを集めた選定コレクションです。各投稿はライセンスと権利記録を備えた完全なデータ専用 Pack です。 |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Pack の設計、制作、統合、監査、公開を支える、持ち運べるエージェント向けワークフローです。 |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peekling が暮らすローカルなデスクトップアプリです。近日公開予定です。 |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | 選んだページに Peekling を迎える Chrome 拡張機能です。近日公開予定です。 |
@@ -61,7 +63,7 @@ Peek は最初の Peekling です。好奇心旺盛で明るい Peek は、ポ�
 
 Peekling はウェブサイトのまわりで、そっと楽しく、邪魔をせずに過ごせる小さなキャラクターです。
 
-自分だけの Peekling をつくって、ウェブサイトに追加できます。[こちらのガイド](https://github.com/peekling/peekling-characters#make-a-character)から始めてください。
+自分だけの Peekling をつくり、コミュニティで共有して、ウェブサイトに追加できます。[コミュニティ Pack ガイド](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md)から始めてください。
 
 ## 一緒に育っていく
 

@@ -36,7 +36,8 @@ Peekling رفيق متحرك صغير له مظهره وشخصيته وطريق�
 لا تحتاج إلى الحضور ومعك شيفرة أو فكرة مكتملة. اختر الجزء الذي يناسبك:
 
 - **ابنِ بيئة التشغيل** في [peekling-engine](https://github.com/peekling/peekling-engine).
-- **ارسم شخصية أو حرّكها أو حسّنها** في [peekling-characters](https://github.com/peekling/peekling-characters).
+- **حسّن شخصية رسمية** في [peekling-characters](https://github.com/peekling/peekling-characters).
+- **شارك شخصية من صنع المجتمع** في [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **أنشئ سير عمل للمطورين أو الفنانين** في [peekling-skills](https://github.com/peekling/peekling-skills).
 - **ساعد في تشكيل تطبيق سطح المكتب المستقبلي** في [peekling-desktop](https://github.com/peekling/peekling-desktop)، الذي سيأتي قريبًا.
 - **أحضر Peeklings إلى Chrome** في [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)، التي ستأتي قريبًا.
@@ -49,6 +50,7 @@ Peekling رفيق متحرك صغير له مظهره وشخصيته وطريق�
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | بيئة تشغيل للمتصفح بلا تبعيات، مع أدوات تحقق وCLI وعمليات دمج تجعل Peeklings تتحرك وتستجيب من دون السيطرة على الصفحة. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Packs رسمية للشخصيات تعتمد على البيانات فقط. وتحتفظ كل Pack برسومها وهويتها وحالاتها وتوقيتها وترخيصها. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | مجموعة منتقاة من شخصيات المجتمع. كل مشاركة هي Pack كاملة تعتمد على البيانات فقط، ومعها سجل للترخيص والحقوق. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | مسارات عمل قابلة للنقل للوكلاء من أجل تصميم Peekling Packs وإنشائها ودمجها وتدقيقها ونشرها. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | منزل مكتبي محلي لـ Peeklings. سيأتي قريبًا. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | إضافة Chrome لإحضار Peeklings إلى الصفحات التي تختارها. ستأتي قريبًا. |
@@ -63,7 +65,7 @@ Peek هو أول Peekling. يتّسم Peek بالفضول والمرح، ويت�
 
 Peekling شخصية صغيرة يمكنها العيش حول موقع ويب بهدوء ومرح، من دون أن تعترض طريقك.
 
-يمكنك إنشاء Peekling خاص بك وإضافته إلى موقعك. [اتبع هذا الدليل](https://github.com/peekling/peekling-characters#make-a-character) للبدء.
+يمكنك إنشاء Peekling خاص بك ومشاركته مع المجتمع وإضافته إلى موقعك. [ابدأ بدليل Packs المجتمعية](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## ننمو معًا
 

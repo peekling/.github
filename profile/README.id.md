@@ -34,7 +34,8 @@ Apa pun yang membawamu ke sini, rasa ingin tahu sudah cukup untuk memulai.
 Kamu tidak perlu datang dengan kode atau gagasan yang sudah selesai. Pilih bagian yang terasa paling cocok untukmu:
 
 - **Bangun runtime** di [peekling-engine](https://github.com/peekling/peekling-engine).
-- **Gambar, animasikan, atau perbaiki karakter** di [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Perbaiki karakter resmi** di [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Bagikan karakter buatan komunitas** di [awesome-peeklings](https://github.com/peekling/awesome-peeklings).
 - **Buat alur kerja untuk pengembang atau seniman** di [peekling-skills](https://github.com/peekling/peekling-skills).
 - **Bantu membentuk aplikasi desktop mendatang** di [peekling-desktop](https://github.com/peekling/peekling-desktop), segera hadir.
 - **Bawa Peeklings ke Chrome** melalui [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), segera hadir.
@@ -47,6 +48,7 @@ Beri bintang pada proyek yang ingin kamu lihat tumbuh. Issues, pull requests yan
 | --- | --- |
 | [peekling-engine](https://github.com/peekling/peekling-engine) | Runtime browser tanpa dependensi, alat validasi, CLI, dan integrasi yang membuat Peeklings bergerak dan bereaksi tanpa mengambil alih halaman. |
 | [peekling-characters](https://github.com/peekling/peekling-characters) | Packs karakter resmi yang hanya terdiri dari data. Setiap Pack menyimpan karya visual, identitas, status, pengaturan waktu, dan lisensinya. |
+| [awesome-peeklings](https://github.com/peekling/awesome-peeklings) | Koleksi pilihan karakter buatan komunitas. Setiap kiriman adalah Pack lengkap yang hanya terdiri dari data, beserta lisensi dan catatan haknya. |
 | [peekling-skills](https://github.com/peekling/peekling-skills) | Alur kerja agent portabel untuk merancang, membuat, mengintegrasikan, mengaudit, dan menerbitkan Peekling Packs. |
 | [peekling-desktop](https://github.com/peekling/peekling-desktop) | Rumah desktop lokal untuk Peeklings. Segera hadir. |
 | [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Ekstensi Chrome yang membawa Peeklings ke halaman pilihanmu. Segera hadir. |
@@ -61,7 +63,7 @@ Peek adalah Peekling pertama. Penuh rasa ingin tahu dan ceria, Peek mengikuti po
 
 Peekling adalah karakter kecil yang dapat hidup di sekitar situs web dengan tenang dan ceria, tanpa mengganggu.
 
-Kamu dapat membuat Peekling milikmu sendiri dan menambahkannya ke situs web. [Ikuti panduan ini](https://github.com/peekling/peekling-characters#make-a-character) untuk memulai.
+Kamu dapat membuat Peekling milikmu sendiri, membagikannya kepada komunitas, dan menambahkannya ke situs web. [Mulailah dengan panduan Pack komunitas](https://github.com/peekling/awesome-peeklings/blob/main/CONTRIBUTING.md).
 
 ## Tumbuh bersama
 
