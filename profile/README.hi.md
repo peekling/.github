@@ -1,4 +1,4 @@
-![एक उजले और स्वागतपूर्ण दृश्य में साथ आए Peekling किरदार](./assets/peekling-community-banner.png)
+![एक उजले और स्वागतपूर्ण दृश्य में साथ आए Peekling किरदार](https://cdn.peekling.com/v1/community/peekling-community-banner.png)
 
 # आइए वेब को और जीवंत बनाएँ ✨
 
@@ -54,7 +54,7 @@ Peekling एक छोटा एनिमेटेड साथी है, ज�
 ## Peek से मिलिए
 
 <p align="center">
-  <img src="./assets/peek-wave-wink-v1.gif" alt="पहला Peekling, Peek, हाथ हिलाते, आँख मारते और मुस्कुराते हुए" width="200">
+  <img src="https://cdn.peekling.com/v1/brand/peek-wave-wink-v1.gif" alt="पहला Peekling, Peek, हाथ हिलाते, आँख मारते और मुस्कुराते हुए" width="200">
 </p>
 
 Peek पहला Peekling है। जिज्ञासु और खुशमिज़ाज Peek पॉइंटर का पीछा करता है और छोटी सफलताओं का जश्न मनाता है।
@@ -75,4 +75,4 @@ Peekling ओपन सोर्स है और Apache 2.0 लाइसें�
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
 </p>
 
-![घास, जंगली फूलों, पत्तियों और एक घुमावदार रास्ते की पतली पट्टी](./assets/peekling-ground-footer-v1.png)
+![घास, जंगली फूलों, पत्तियों और एक घुमावदार रास्ते की पतली पट्टी](https://cdn.peekling.com/v1/community/peekling-ground-footer-v1.png)

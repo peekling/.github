@@ -1,4 +1,4 @@
-![Các nhân vật Peekling tụ họp trong một khung cảnh tươi sáng và thân thiện](./assets/peekling-community-banner.png)
+![Các nhân vật Peekling tụ họp trong một khung cảnh tươi sáng và thân thiện](https://cdn.peekling.com/v1/community/peekling-community-banner.png)
 
 # Hãy cùng làm cho web trở nên sống động hơn ✨
 
@@ -54,7 +54,7 @@ Hãy tặng sao cho những dự án bạn muốn thấy phát triển. Issues, 
 ## Gặp gỡ Peek
 
 <p align="center">
-  <img src="./assets/peek-wave-wink-v1.gif" alt="Peek, Peekling đầu tiên, đang vẫy tay, nháy mắt và mỉm cười" width="200">
+  <img src="https://cdn.peekling.com/v1/brand/peek-wave-wink-v1.gif" alt="Peek, Peekling đầu tiên, đang vẫy tay, nháy mắt và mỉm cười" width="200">
 </p>
 
 Peek là Peekling đầu tiên. Tò mò và vui vẻ, Peek đi theo con trỏ và ăn mừng những thành công nhỏ.
@@ -75,4 +75,4 @@ Peekling là phần mềm mã nguồn mở và được cấp phép theo Apache 
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
 </p>
 
-![Một dải cỏ hẹp với hoa dại, tán lá và lối đi uốn lượn](./assets/peekling-ground-footer-v1.png)
+![Một dải cỏ hẹp với hoa dại, tán lá và lối đi uốn lượn](https://cdn.peekling.com/v1/community/peekling-ground-footer-v1.png)

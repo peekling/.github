@@ -1,4 +1,4 @@
-![Peekling 角色们聚集在明亮而温馨的风景中](./assets/peekling-community-banner.png)
+![Peekling 角色们聚集在明亮而温馨的风景中](https://cdn.peekling.com/v1/community/peekling-community-banner.png)
 
 # 让网络世界更有生气 ✨
 
@@ -54,7 +54,7 @@ Peekling 是一个小巧的动画伙伴，拥有自己的外观、个性，以�
 ## 认识 Peek
 
 <p align="center">
-  <img src="./assets/peek-wave-wink-v1.gif" alt="第一个 Peekling 角色 Peek 正在挥手、眨眼并微笑" width="200">
+  <img src="https://cdn.peekling.com/v1/brand/peek-wave-wink-v1.gif" alt="第一个 Peekling 角色 Peek 正在挥手、眨眼并微笑" width="200">
 </p>
 
 Peek 是第一个 Peekling。它好奇又开朗，会跟随指针，也会庆祝每一个小小的成功。
@@ -75,4 +75,4 @@ Peekling 是开源项目，采用 Apache 2.0 许可证。
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
 </p>
 
-![一条狭长的草地，上面有野花、枝叶和一条蜿蜒的小径](./assets/peekling-ground-footer-v1.png)
+![一条狭长的草地，上面有野花、枝叶和一条蜿蜒的小径](https://cdn.peekling.com/v1/community/peekling-ground-footer-v1.png)

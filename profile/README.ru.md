@@ -1,4 +1,4 @@
-![Персонажи Peekling собрались в ярком и уютном пейзаже](./assets/peekling-community-banner.png)
+![Персонажи Peekling собрались в ярком и уютном пейзаже](https://cdn.peekling.com/v1/community/peekling-community-banner.png)
 
 # Давайте сделаем интернет живее ✨
 
@@ -54,7 +54,7 @@ Peekling представляет собой маленького анимиро
 ## Познакомьтесь с Peek
 
 <p align="center">
-  <img src="./assets/peek-wave-wink-v1.gif" alt="Peek, первый Peekling, машет, подмигивает и улыбается" width="200">
+  <img src="https://cdn.peekling.com/v1/brand/peek-wave-wink-v1.gif" alt="Peek, первый Peekling, машет, подмигивает и улыбается" width="200">
 </p>
 
 Peek является первым Peekling. Любопытный и жизнерадостный Peek следует за указателями и радуется маленьким победам.
@@ -75,4 +75,4 @@ Peekling имеет открытый исходный код и распрост
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
 </p>
 
-![Узкая полоса травы, полевых цветов и листвы с извилистой тропинкой](./assets/peekling-ground-footer-v1.png)
+![Узкая полоса травы, полевых цветов и листвы с извилистой тропинкой](https://cdn.peekling.com/v1/community/peekling-ground-footer-v1.png)
