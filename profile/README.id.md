@@ -10,7 +10,18 @@ Peekling adalah teman animasi kecil dengan tampilan, kepribadian, dan cara meres
 
 Di balik karakter-karakter tersebut, Peekling adalah runtime browser sumber terbuka untuk karakter animasi kecil yang hanya terdiri dari data. Runtime ini membantu mereka bergerak dan bereaksi tanpa mengirim telemetri atau data halaman ke backend.
 
-## Kamu diterima di sini
+Setiap bagian memiliki tugas yang jelas. Engine memuat dan merender karakter. Pack menyimpan karya visual dan kemampuannya. Plan yang dikendalikan pengembang menentukan kapan karakter bereaksi. Skills memandu pengembang dan seniman yang membuat, mengintegrasikan, meninjau, dan membagikannya.
+
+### Prinsip
+
+- **Satu engine, banyak lingkungan.** Runtime yang sama dapat membawa Peekling ke situs web, aplikasi desktop mendatang, atau ekstensi browser.
+- **Karakter adalah data, bukan kode.** Packs berisi karya visual dan data animasi yang telah divalidasi. Packs tidak dapat menjalankan skrip atau mengambil alih halaman host.
+- **Host tetap memegang kendali.** Pengembang memilih Pack, Plan, kebijakan, dan presentasi. Pengunjung dapat mengistirahatkan semua Peeklings tanpa akun atau backend.
+- **Tanpa telemetri, tanpa backend.** Runtime bekerja di dalam browser. Proyek dapat mengunci versi paket atau menghosting berkasnya sendiri.
+- **Skills adalah folder portabel.** Setiap alur kerja berada dalam folder `SKILL.md` yang dapat digunakan pengembang dan seniman dengan agent yang kompatibel.
+- **Lisensi dinyatakan dengan jelas.** Runtime, alat, Packs resmi, dan skills menggunakan Apache-2.0. Setiap Pack menyatakan hak atas karya visualnya.
+
+## Semua orang diterima di sini
 
 Baik kamu datang untuk bertemu para karakter, mempelajari sesuatu yang baru, menggambar, menulis, membuat animasi, menulis kode, mengajar, membangun sesuatu untuk perusahaan, maupun sekadar melihat apa yang sedang terbentuk, kami senang kamu menemukan kami.
 
@@ -18,15 +29,27 @@ Pelajar dan orang yang baru pertama kali berkarya dapat bereksperimen. Seniman d
 
 Apa pun yang membawamu ke sini, rasa ingin tahu sudah cukup untuk memulai.
 
-## Mari membuatnya bersama
+## Ikut terlibat
 
-Kamu tidak perlu datang dengan kode atau gagasan yang sudah selesai. Lihat-lihat, ajukan pertanyaan, bagikan masukan, bayangkan sebuah karakter, atau beri tahu kami tempat yang cocok bagi Peekling. Jika menemukan sesuatu yang dapat diperbaiki, buka issue atau kirim kontribusi yang terfokus. Seni, cerita, dokumentasi, dan kode adalah cara-cara untuk membantu.
+Kamu tidak perlu datang dengan kode atau gagasan yang sudah selesai. Pilih bagian yang terasa paling cocok untukmu:
 
-## Repositori Peekling
+- **Bangun runtime** di [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Gambar, animasikan, atau perbaiki karakter** di [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Buat alur kerja untuk pengembang atau seniman** di [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Bantu membentuk aplikasi desktop mendatang** di [peekling-desktop](https://github.com/peekling/peekling-desktop), segera hadir.
+- **Bawa Peeklings ke Chrome** melalui [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), segera hadir.
+
+Beri bintang pada proyek yang ingin kamu lihat tumbuh. Issues, pull requests yang terfokus, gagasan karakter, karya seni, cerita, dan dokumentasi juga membantu.
+
+## Yang kami rilis
 
 | Repositori | Deskripsi |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | Tempat paket karakter resmi berada. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | Runtime browser tanpa dependensi, alat validasi, CLI, dan integrasi yang membuat Peeklings bergerak dan bereaksi tanpa mengambil alih halaman. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Packs karakter resmi yang hanya terdiri dari data. Setiap Pack menyimpan karya visual, identitas, status, pengaturan waktu, dan lisensinya. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Alur kerja agent portabel untuk merancang, membuat, mengintegrasikan, mengaudit, dan menerbitkan Peekling Packs. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Rumah desktop lokal untuk Peeklings. Segera hadir. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Ekstensi Chrome yang membawa Peeklings ke halaman pilihanmu. Segera hadir. |
 
 ## Berkenalan dengan Peek
 
@@ -47,22 +70,6 @@ Peekling tumbuh dengan membuka satu bagian publik pada satu waktu. Seiring terse
 Beberapa bagian dari perjalanan itu masih menanti. Kami hanya akan memperkenalkannya ketika sudah siap, dan setiap bagian publik seharusnya memudahkan orang berikutnya untuk bergabung.
 
 Peekling bersifat sumber terbuka dan dilisensikan berdasarkan Apache 2.0.
-
-<!--
-TEKS UNTUK EKOSISTEM PUBLIK MENDATANG
-Biarkan blok ini tetap menjadi komentar sampai setiap tujuan siap dikunjungi publik.
-Ganti tujuan sementara untuk situs web dan playground sebelum menghapus komentar.
-
-## Ekosistem yang ceria sedang terbentuk
-
-Peekling berkembang melampaui paket karakter satu per satu menjadi tempat yang ramah untuk menemukan, membuat, dan membagikan teman web yang ekspresif.
-
-- **[Situs web Peekling](#replace-with-website-url)** akan memperkenalkan proyek, karakter-karakternya, dan gagasan di balik upaya membuat web sedikit lebih hidup.
-- **[Playground interaktif](#replace-with-playground-url)** akan memudahkan orang bertemu karakter, menjelajahi kepribadiannya, dan bereksperimen sebelum menambahkan salah satunya ke proyek.
-- **[Lebih banyak komponen sumber terbuka](https://github.com/peekling)** akan memberi pengembang dan kreator cara baru untuk menyesuaikan, memperluas, dan berkontribusi pada ekosistem Peekling.
-
-Pengalaman ini sedang direncanakan dan belum tersedia untuk publik. Saat sudah siap, organisasi ini akan menjadi tempat untuk menemukannya.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

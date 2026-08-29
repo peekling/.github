@@ -10,6 +10,17 @@ Peekling は、独自の見た目や個性、周囲のページへの反応の�
 
 キャラクターの背後にある Peekling は、データのみで構成された小さなアニメーションキャラクターのための、オープンソースのブラウザランタイムです。テレメトリーやページデータをバックエンドへ送ることなく、キャラクターが動いたり反応したりできるようにします。
 
+それぞれの要素には明確な役割があります。エンジンはキャラクターを読み込み、描画します。Pack はキャラクターのアートと能力を保持します。開発者が管理する Plan が、いつ反応するかを決めます。Skills は、キャラクターを制作、統合、確認、共有する開発者とアーティストを案内します。
+
+### 原則
+
+- **一つのエンジンを、さまざまな場所で。** 同じランタイムで、ウェブサイト、将来のデスクトップアプリ、ブラウザ拡張機能に Peekling を迎えられます。
+- **キャラクターはコードではなくデータです。** Pack にはアートと検証済みのアニメーションデータが入ります。スクリプトを実行したり、ホストページを乗っ取ったりすることはできません。
+- **ホストが主導権を持ちます。** 開発者が Pack、Plan、ポリシー、見せ方を選びます。訪問者はアカウントやバックエンドなしで、すべての Peekling を休ませられます。
+- **テレメトリーもバックエンドもありません。** ランタイムはブラウザ内で動作します。プロジェクトはパッケージのバージョンを固定することも、ファイルを自分でホストすることもできます。
+- **Skills は持ち運べるフォルダーです。** 各ワークフローは `SKILL.md` フォルダーに収まり、開発者やアーティストが対応するエージェントで利用できます。
+- **ライセンスを明記します。** ランタイム、ツール、公式 Pack、Skills は Apache-2.0 です。各 Pack はアートに適用される権利を明示します。
+
 ## どなたでも歓迎します
 
 キャラクターに会うため、新しいことを学ぶため、絵や文章、アニメーションやコードをつくるため、教えるため、会社のために何かをつくるため、あるいは形になりつつあるものを眺めるため。どんなきっかけでも、ここを見つけてくださったことをうれしく思います。
@@ -18,15 +29,27 @@ Peekling は、独自の見た目や個性、周囲のページへの反応の�
 
 ここへ来た理由が何であっても、好奇心さえあれば始められます。
 
-## 一緒につくりましょう
+## 参加する
 
-コードや完成したアイデアを用意してくる必要はありません。見て回り、質問し、感想を共有し、キャラクターを思い描いたり、Peekling が似合いそうな場所を教えたりしてください。改善できる点を見つけたら、issue を作成するか、焦点を絞ったコントリビューションを送ってください。アート、物語、ドキュメント、コードは、どれも力になります。
+コードや完成したアイデアを用意する必要はありません。自分に合う場所を選んでください。
 
-## Peekling のリポジトリ
+- **ランタイムを開発する**なら [peekling-engine](https://github.com/peekling/peekling-engine)。
+- **キャラクターを描く、動かす、改善する**なら [peekling-characters](https://github.com/peekling/peekling-characters)。
+- **開発者やアーティスト向けのワークフローをつくる**なら [peekling-skills](https://github.com/peekling/peekling-skills)。
+- **将来のデスクトップアプリを一緒につくる**なら、近日公開予定の [peekling-desktop](https://github.com/peekling/peekling-desktop)。
+- **Peekling を Chrome に迎える**なら、近日公開予定の [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension)。
+
+育ってほしいプロジェクトには Star を付けてください。issue、焦点を絞った pull request、キャラクターのアイデア、アート、物語、ドキュメントも力になります。
+
+## 私たちが届けるもの
 
 | リポジトリ | 説明 |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | 公式キャラクターパックのリポジトリです。 |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | ページを乗っ取ることなく Peekling を動かし、反応させる、依存関係ゼロのブラウザランタイム、検証ツール、CLI、連携機能です。 |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | データのみで構成された公式キャラクター Pack です。各 Pack がアート、個性、状態、タイミング、ライセンスを保持します。 |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Pack の設計、制作、統合、監査、公開を支える、持ち運べるエージェント向けワークフローです。 |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peekling が暮らすローカルなデスクトップアプリです。近日公開予定です。 |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | 選んだページに Peekling を迎える Chrome 拡張機能です。近日公開予定です。 |
 
 ## Peek に会いましょう
 
@@ -47,22 +70,6 @@ Peekling は、公開できるものを一つずつ増やしながら成長し�
 その歩みには、まだこれからの部分もあります。準備が整ったときにだけ紹介し、公開する一つひとつが、次の人にとって参加しやすい入口になるようにします。
 
 Peekling はオープンソースで、Apache 2.0 ライセンスのもとで提供されています。
-
-<!--
-将来の公開エコシステム向けコピー
-各リンク先が一般公開の準備を終えるまで、このブロックはコメントアウトしたままにしてください。
-コメントを解除する前に、ウェブサイトとプレイグラウンドの仮リンクを置き換えてください。
-
-## 楽しいエコシステムが形になりつつあります
-
-Peekling は個々のキャラクターパックを越えて、表情豊かなウェブの仲間を見つけ、つくり、共有できる居心地のよい場所へと成長しています。
-
-- **[Peekling のウェブサイト](#replace-with-website-url)**では、プロジェクトやキャラクター、ウェブにもう少し生命感を加えるという考え方を紹介する予定です。
-- **[インタラクティブなプレイグラウンド](#replace-with-playground-url)**では、キャラクターに会い、その個性を知り、プロジェクトへ加える前に気軽に試せるようになる予定です。
-- **[さらに多くのオープンソースの構成要素](https://github.com/peekling)**は、開発者やクリエイターが Peekling のエコシステムをカスタマイズし、拡張し、貢献するための新しい方法を提供する予定です。
-
-これらの体験は計画中で、まだ一般公開されていません。準備が整ったら、この organization で見つけられるようになります。
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

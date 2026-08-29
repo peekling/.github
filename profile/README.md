@@ -10,7 +10,18 @@ A Peekling is a small animated companion with its own look, personality, and way
 
 Behind the characters, Peekling is an open-source browser runtime for small, data-only animated characters. It helps them move and react without sending telemetry or page data to a backend.
 
-## You are welcome here
+The pieces have clear jobs. The engine loads and renders. A Pack holds the character's artwork and capabilities. A developer-owned Plan decides when it reacts. Skills guide the developers and artists who create, integrate, review, and share it.
+
+### Principles
+
+- **One engine, many surfaces.** The same runtime can bring a Peekling to a website, a future desktop app, or a browser extension.
+- **Characters are data, not code.** Packs contain artwork and validated animation data. They cannot run scripts or take over a host page.
+- **The host stays in control.** Developers choose the Pack, Plan, policy, and presentation. Visitors can let every Peekling rest without an account or backend.
+- **No telemetry, no backend.** The runtime does its work in the browser. Projects can use pinned packages or self-host the files.
+- **Skills are portable folders.** Each workflow lives in a `SKILL.md` folder that developers and artists can use with compatible agents.
+- **Licenses are explicit.** The runtime, tooling, official Packs, and skills use Apache-2.0. Each Pack declares the rights for its artwork.
+
+## Everyone is welcome here
 
 Whether you came to meet the characters, learn something new, draw, write, animate, code, teach, build for a company, or simply see what is taking shape, we are glad you found us.
 
@@ -18,15 +29,27 @@ Students and first-time makers can experiment. Artists and writers can imagine n
 
 Whatever brings you here, curiosity is enough to begin.
 
-## Come make it with us
+## Get involved
 
-You do not need to arrive with code or a finished idea. Look around, ask a question, share feedback, dream up a character, or tell us where a Peekling could feel at home. If you spot something you can improve, open an issue or send a focused contribution. Art, stories, documentation, and code are all ways to help.
+You do not need to arrive with code or a finished idea. Pick the part that feels like home:
 
-## Peekling repositories
+- **Build the runtime** in [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Draw, animate, or improve a character** in [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Create a workflow for developers or artists** in [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Help shape the future desktop app** in [peekling-desktop](https://github.com/peekling/peekling-desktop), coming soon.
+- **Bring Peeklings into Chrome** in [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), coming soon.
+
+Star the projects you want to see grow. Issues, focused pull requests, character ideas, art, stories, and documentation all help.
+
+## What we ship
 
 | Repository | Description |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | Home to the official character packs. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | The zero-dependency browser runtime, validation tools, CLI, and integrations that make Peeklings move and react without taking over the page. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Official data-only character Packs. Each Pack owns its artwork, identity, states, timing, and license. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Portable agent workflows for designing, creating, integrating, auditing, and publishing Peekling Packs. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | A local desktop home for Peeklings. Coming soon. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | A Chrome extension for bringing Peeklings to pages you choose. Coming soon. |
 
 ## Meet Peek
 
@@ -47,22 +70,6 @@ Peekling is growing one public piece at a time. As more pieces become available,
 Some parts of that journey are still ahead. We will introduce them only when they are ready, and each public piece should make it easier for the next person to join in.
 
 Peekling is open source and licensed under Apache 2.0.
-
-<!--
-FUTURE PUBLIC ECOSYSTEM COPY
-Keep this block commented out until each destination is ready for public visitors.
-Replace the placeholder website and playground targets before uncommenting.
-
-## A playful ecosystem is taking shape
-
-Peekling is growing beyond individual character packs into a welcoming place to discover, create, and share expressive web companions.
-
-- **[The Peekling website](#replace-with-website-url)** will introduce the project, its characters, and the ideas behind bringing a little more life to the web.
-- **[An interactive playground](#replace-with-playground-url)** will make it easy to meet characters, explore their personalities, and experiment before adding one to a project.
-- **[More open source building blocks](https://github.com/peekling)** will give developers and creators new ways to customize, extend, and contribute to the Peekling ecosystem.
-
-These experiences are planned and are not publicly available yet. When they are ready, this organization will be the place to find them.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

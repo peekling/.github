@@ -10,7 +10,18 @@ Peekling, kendine özgü görünümü, kişiliği ve çevresindeki sayfaya tepki
 
 Karakterlerin arkasında Peekling bulunur. Peekling, yalnızca veriden oluşan küçük animasyonlu karakterler için açık kaynaklı bir tarayıcı çalışma zamanıdır. Telemetriyi veya sayfa verilerini bir arka uca göndermeden hareket etmelerine ve tepki vermelerine yardımcı olur.
 
-## Burada hoş karşılanırsınız
+Her parçanın işi bellidir. Engine karakteri yükler ve görüntüler. Pack, karakterin çizimlerini ve yeteneklerini taşır. Geliştiricinin denetimindeki Plan, ne zaman tepki vereceğine karar verir. Skills ise karakteri oluşturan, entegre eden, inceleyen ve paylaşan geliştiricilere ve sanatçılara yol gösterir.
+
+### İlkeler
+
+- **Tek engine, birçok ortam.** Aynı runtime bir Peekling'i web sitesine, gelecekteki bir masaüstü uygulamasına veya tarayıcı uzantısına taşıyabilir.
+- **Karakterler kod değil, veridir.** Packs, çizimleri ve doğrulanmış animasyon verilerini içerir. Betik çalıştıramaz veya ana sayfanın denetimini ele geçiremezler.
+- **Denetim ana uygulamada kalır.** Geliştiriciler Pack, Plan, politika ve sunumu seçer. Ziyaretçiler hesap veya arka uç olmadan tüm Peeklings'i dinlendirebilir.
+- **Telemetri yok, arka uç yok.** Runtime işini tarayıcıda yapar. Projeler paket sürümlerini sabitleyebilir veya dosyaları kendileri barındırabilir.
+- **Skills taşınabilir klasörlerdir.** Her iş akışı, geliştiricilerin ve sanatçıların uyumlu agent'larla kullanabileceği bir `SKILL.md` klasöründe yer alır.
+- **Lisanslar açıkça belirtilir.** Runtime, araçlar, resmî Packs ve skills Apache-2.0 kullanır. Her Pack kendi çizimlerinin haklarını açıklar.
+
+## Burada herkes hoş karşılanır
 
 Karakterlerle tanışmak, yeni bir şey öğrenmek, çizmek, yazmak, animasyon veya kod üretmek, öğretmek, bir şirket için geliştirmek ya da yalnızca nelerin şekillendiğini görmek için gelmiş olabilirsiniz. Sizi buraya getiren ne olursa olsun, bizi bulduğunuza sevindik.
 
@@ -18,15 +29,27 @@ Karakterlerle tanışmak, yeni bir şey öğrenmek, çizmek, yazmak, animasyon v
 
 Buraya gelme nedeniniz ne olursa olsun, başlamak için merak yeterlidir.
 
-## Gelin, bizimle birlikte yapın
+## Katılın
 
-Kodla veya tamamlanmış bir fikirle gelmeniz gerekmez. Etrafa bakın, soru sorun, geri bildirim paylaşın, bir karakter hayal edin ya da bir Peekling'in nerede kendini evinde hissedebileceğini bize anlatın. İyileştirebileceğiniz bir şey görürseniz issue açın veya belirli bir konuya odaklanan katkı gönderin. Sanat, hikâyeler, dokümantasyon ve kod, yardım etmenin yollarıdır.
+Kodla veya tamamlanmış bir fikirle gelmeniz gerekmez. Kendinizi yakın hissettiğiniz bölümü seçin:
 
-## Peekling depoları
+- **Runtime'ı geliştirin**: [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Bir karakter çizin, canlandırın veya iyileştirin**: [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Geliştiriciler ya da sanatçılar için bir iş akışı oluşturun**: [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Gelecekteki masaüstü uygulamasını şekillendirin**: yakında gelecek [peekling-desktop](https://github.com/peekling/peekling-desktop).
+- **Peeklings'i Chrome'a getirin**: yakında gelecek [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension).
+
+Büyümesini istediğiniz projelere yıldız verin. Issues, odaklı pull requests, karakter fikirleri, sanat, hikâyeler ve dokümantasyon da yardımcı olur.
+
+## Neler yayımlıyoruz
 
 | Depo | Açıklama |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | Resmî karakter paketlerinin yuvası. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | Sayfayı ele geçirmeden Peeklings'in hareket etmesini ve tepki vermesini sağlayan bağımlılıksız tarayıcı runtime'ı, doğrulama araçları, CLI ve entegrasyonlar. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Yalnızca veriden oluşan resmî karakter Packs. Her Pack çizimlerini, kimliğini, durumlarını, zamanlamasını ve lisansını içerir. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Peekling Packs'i tasarlamak, oluşturmak, entegre etmek, denetlemek ve yayımlamak için taşınabilir agent iş akışları. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Peeklings için yerel bir masaüstü yuvası. Yakında. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Peeklings'i seçtiğiniz sayfalara getiren bir Chrome uzantısı. Yakında. |
 
 ## Peek ile tanışın
 
@@ -47,22 +70,6 @@ Peekling, her seferinde herkese açık bir parça ekleyerek büyüyor. Daha fazl
 Bu yolculuğun bazı bölümleri hâlâ ileride. Onları yalnızca hazır olduklarında tanıtacağız ve herkese açık her parça bir sonraki kişinin katılmasını kolaylaştırmalı.
 
 Peekling açık kaynaklıdır ve Apache 2.0 lisansı altında sunulur.
-
-<!--
-GELECEKTEKİ HERKESE AÇIK EKOSİSTEM İÇİN METİN
-Her hedef ziyaretçilere hazır olana kadar bu bloğu yorum olarak tutun.
-Yorumu kaldırmadan önce web sitesi ve oyun alanı için yer tutucu hedefleri değiştirin.
-
-## Neşeli bir ekosistem şekilleniyor
-
-Peekling, tek tek karakter paketlerinin ötesine geçerek etkileyici web yol arkadaşlarını keşfetmek, oluşturmak ve paylaşmak için davetkâr bir yere dönüşüyor.
-
-- **[Peekling web sitesi](#replace-with-website-url)** projeyi, karakterlerini ve web'e biraz daha canlılık katmanın ardındaki fikirleri tanıtacak.
-- **[Etkileşimli bir oyun alanı](#replace-with-playground-url)** karakterlerle tanışmayı, kişiliklerini keşfetmeyi ve bir projeye eklemeden önce denemeyi kolaylaştıracak.
-- **[Daha fazla açık kaynak yapı taşı](https://github.com/peekling)** geliştiricilere ve üreticilere Peekling ekosistemini özelleştirmek, genişletmek ve ona katkıda bulunmak için yeni yollar sunacak.
-
-Bu deneyimler planlanıyor ve henüz herkese açık değil. Hazır olduklarında onları bu kuruluşta bulabileceksiniz.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

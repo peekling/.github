@@ -10,7 +10,18 @@ Un Peekling è un piccolo compagno animato con un aspetto, una personalità e un
 
 Dietro i personaggi, Peekling è un runtime open source per browser dedicato a piccoli personaggi animati composti esclusivamente da dati. Permette loro di muoversi e reagire senza inviare dati di telemetria o della pagina a un server.
 
-## Qui sei il benvenuto
+Ogni elemento ha un compito preciso. Il motore carica e visualizza il personaggio. Un Pack contiene la sua grafica e le sue capacità. Un Plan controllato da chi sviluppa decide quando reagisce. Le skills guidano sviluppatori e artisti che lo creano, lo integrano, lo verificano e lo condividono.
+
+### Principi
+
+- **Un motore, più ambienti.** Lo stesso runtime può portare un Peekling su un sito web, in una futura app desktop o in un’estensione del browser.
+- **I personaggi sono dati, non codice.** I Packs contengono grafica e dati di animazione convalidati. Non possono eseguire script né prendere il controllo della pagina ospite.
+- **L’host mantiene il controllo.** Chi sviluppa sceglie Pack, Plan, regole e presentazione. I visitatori possono far riposare tutti i Peeklings senza account o server.
+- **Niente telemetria, niente server.** Il runtime lavora nel browser. I progetti possono fissare le versioni dei pacchetti o ospitare direttamente i file.
+- **Le skills sono cartelle portatili.** Ogni flusso di lavoro vive in una cartella `SKILL.md` che sviluppatori e artisti possono usare con agenti compatibili.
+- **Le licenze sono esplicite.** Il runtime, gli strumenti, i Packs ufficiali e le skills usano Apache-2.0. Ogni Pack dichiara i diritti relativi alla propria grafica.
+
+## Qui tutti sono i benvenuti
 
 Che tu sia qui per conoscere i personaggi, imparare qualcosa di nuovo, disegnare, scrivere, animare, programmare, insegnare, creare per un’azienda o semplicemente vedere cosa sta prendendo forma, siamo felici che tu ci abbia trovato.
 
@@ -18,15 +29,27 @@ Studenti e persone alle prime esperienze creative possono sperimentare. Artisti 
 
 Qualunque cosa ti abbia portato qui, la curiosità basta per cominciare.
 
-## Crealo insieme a noi
+## Partecipa
 
-Non devi arrivare con del codice o un’idea completa. Esplora, fai una domanda, condividi un’opinione, immagina un personaggio o raccontaci dove un Peekling potrebbe sentirsi a casa. Se noti qualcosa che puoi migliorare, apri una issue o invia un contributo mirato. Arte, storie, documentazione e codice sono tutti modi per dare una mano.
+Non devi arrivare con del codice o un’idea completa. Scegli la parte in cui ti senti a casa:
 
-## Repository di Peekling
+- **Sviluppa il runtime** in [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Disegna, anima o migliora un personaggio** in [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Crea un flusso di lavoro per sviluppatori o artisti** in [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Aiuta a dare forma alla futura app desktop** in [peekling-desktop](https://github.com/peekling/peekling-desktop), in arrivo.
+- **Porta i Peeklings in Chrome** con [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), in arrivo.
+
+Metti una stella ai progetti che vuoi vedere crescere. Issue, pull request mirate, idee per i personaggi, arte, storie e documentazione sono tutti contributi utili.
+
+## Cosa pubblichiamo
 
 | Repository | Descrizione |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | Ospita i pacchetti di personaggi ufficiali. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | Il runtime per browser senza dipendenze, gli strumenti di convalida, la CLI e le integrazioni che fanno muovere e reagire i Peeklings senza prendere il controllo della pagina. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Packs di personaggi ufficiali composti solo da dati. Ogni Pack contiene grafica, identità, stati, tempi e licenza. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Flussi di lavoro portatili per agenti che aiutano a progettare, creare, integrare, verificare e pubblicare Peekling Packs. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Una casa locale sul desktop per i Peeklings. In arrivo. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Un’estensione Chrome che porta i Peeklings nelle pagine scelte da te. In arrivo. |
 
 ## Incontra Peek
 
@@ -47,22 +70,6 @@ Peekling cresce rendendo pubblico un elemento alla volta. Man mano che ne sarann
 Alcune parti di questo percorso devono ancora arrivare. Le presenteremo solo quando saranno pronte, e ogni elemento pubblico dovrebbe rendere più semplice la partecipazione della persona successiva.
 
 Peekling è open source ed è distribuito con licenza Apache 2.0.
-
-<!--
-TESTO PER IL FUTURO ECOSISTEMA PUBBLICO
-Mantieni commentato questo blocco finché ogni destinazione non sarà pronta per il pubblico.
-Sostituisci i collegamenti provvisori del sito web e del playground prima di rimuovere il commento.
-
-## Un ecosistema giocoso sta prendendo forma
-
-Peekling sta crescendo oltre i singoli pacchetti di personaggi per diventare un luogo accogliente dove scoprire, creare e condividere compagni espressivi per il web.
-
-- **[Il sito web di Peekling](#replace-with-website-url)** presenterà il progetto, i suoi personaggi e le idee che guidano il desiderio di rendere il web un po’ più vivo.
-- **[Un playground interattivo](#replace-with-playground-url)** renderà semplice incontrare i personaggi, esplorarne le personalità e sperimentare prima di aggiungerne uno a un progetto.
-- **[Altri componenti open source](https://github.com/peekling)** offriranno a chi sviluppa e crea nuovi modi per personalizzare ed estendere l’ecosistema Peekling, oltre che per contribuire.
-
-Queste esperienze sono in programma e non sono ancora disponibili pubblicamente. Quando saranno pronte, potrai trovarle in questa organizzazione.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

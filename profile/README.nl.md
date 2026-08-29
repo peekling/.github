@@ -10,7 +10,18 @@ Een Peekling is een klein geanimeerd gezelschap met een eigen uiterlijk, persoon
 
 Achter de personages is Peekling een opensource browserruntime voor kleine geanimeerde personages die uitsluitend uit gegevens bestaan. Daarmee kunnen ze bewegen en reageren zonder telemetrie of paginagegevens naar een backend te sturen.
 
-## Je bent hier welkom
+Elk onderdeel heeft een duidelijke taak. De engine laadt en rendert. Een Pack bevat de illustraties en mogelijkheden van het personage. Een Plan dat de ontwikkelaar beheert, bepaalt wanneer het reageert. Skills begeleiden de ontwikkelaars en kunstenaars die het maken, integreren, beoordelen en delen.
+
+### Principes
+
+- **Eén engine, veel omgevingen.** Dezelfde runtime kan een Peekling naar een website, een toekomstige desktopapp of een browserextensie brengen.
+- **Personages zijn gegevens, geen code.** Packs bevatten illustraties en gevalideerde animatiegegevens. Ze kunnen geen scripts uitvoeren of een hostpagina overnemen.
+- **De host houdt de controle.** Ontwikkelaars kiezen het Pack, Plan, beleid en de presentatie. Bezoekers kunnen elke Peekling laten rusten zonder account of backend.
+- **Geen telemetrie, geen backend.** De runtime doet zijn werk in de browser. Projecten kunnen pakketversies vastzetten of de bestanden zelf hosten.
+- **Skills zijn draagbare mappen.** Elke workflow staat in een `SKILL.md`-map die ontwikkelaars en kunstenaars met compatibele agents kunnen gebruiken.
+- **Licenties zijn expliciet.** De runtime, tooling, officiële Packs en skills gebruiken Apache-2.0. Elk Pack vermeldt de rechten voor de illustraties.
+
+## Iedereen is hier welkom
 
 Of je nu komt om de personages te ontmoeten, iets nieuws te leren, te tekenen, te schrijven, te animeren, te programmeren, les te geven, iets voor een bedrijf te bouwen of gewoon te zien wat hier ontstaat, we zijn blij dat je ons hebt gevonden.
 
@@ -18,15 +29,27 @@ Studenten en beginnende makers kunnen experimenteren. Kunstenaars en schrijvers 
 
 Wat je hier ook brengt, nieuwsgierigheid is genoeg om te beginnen.
 
-## Maak het samen met ons
+## Doe mee
 
-Je hoeft niet met code of een uitgewerkt idee aan te komen. Kijk rond, stel een vraag, deel feedback, bedenk een personage of vertel ons waar een Peekling zich thuis zou kunnen voelen. Zie je iets dat beter kan, open dan een issue of stuur een gerichte bijdrage. Kunst, verhalen, documentatie en code helpen allemaal.
+Je hoeft niet met code of een uitgewerkt idee aan te komen. Kies het onderdeel waar jij je thuis voelt:
 
-## Peekling-repository's
+- **Bouw aan de runtime** in [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Teken, animeer of verbeter een personage** in [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Maak een workflow voor ontwikkelaars of kunstenaars** in [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Help de toekomstige desktopapp vorm te geven** in [peekling-desktop](https://github.com/peekling/peekling-desktop), binnenkort beschikbaar.
+- **Breng Peeklings naar Chrome** in [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), binnenkort beschikbaar.
+
+Geef de projecten die je wilt zien groeien een ster. Issues, gerichte pull requests, ideeën voor personages, kunst, verhalen en documentatie helpen ook.
+
+## Wat we maken
 
 | Repository | Beschrijving |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | De thuisbasis van de officiële personagepakketten. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | De browserruntime zonder afhankelijkheden, validatietools, CLI en integraties die Peeklings laten bewegen en reageren zonder de pagina over te nemen. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Officiële personage-Packs die uitsluitend uit gegevens bestaan. Elk Pack bevat de illustraties, identiteit, toestanden, timing en licentie. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Draagbare agentworkflows voor het ontwerpen, maken, integreren, controleren en publiceren van Peekling Packs. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Een lokale desktopplek voor Peeklings. Binnenkort beschikbaar. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Een Chrome-extensie die Peeklings naar de pagina's van jouw keuze brengt. Binnenkort beschikbaar. |
 
 ## Maak kennis met Peek
 
@@ -47,22 +70,6 @@ Peekling groeit met één openbaar onderdeel tegelijk. Naarmate er meer onderdel
 Sommige delen van die reis liggen nog voor ons. We introduceren ze pas wanneer ze klaar zijn. Elk openbaar onderdeel moet het voor de volgende persoon makkelijker maken om mee te doen.
 
 Peekling is open source en heeft een Apache 2.0-licentie.
-
-<!--
-TEKST VOOR HET TOEKOMSTIGE OPENBARE ECOSYSTEEM
-Laat dit blok in commentaar staan totdat elke bestemming klaar is voor openbare bezoekers.
-Vervang de tijdelijke doelen voor de website en playground voordat je het commentaar verwijdert.
-
-## Een speels ecosysteem krijgt vorm
-
-Peekling groeit verder dan afzonderlijke personagepakketten en wordt een uitnodigende plek om expressieve webgezellen te ontdekken, te maken en te delen.
-
-- **[De Peekling-website](#replace-with-website-url)** zal het project, de personages en de ideeën achter een levendiger web introduceren.
-- **[Een interactieve playground](#replace-with-playground-url)** zal het makkelijk maken om personages te ontmoeten, hun persoonlijkheden te ontdekken en te experimenteren voordat je er een aan een project toevoegt.
-- **[Meer opensource bouwstenen](https://github.com/peekling)** zullen ontwikkelaars en makers nieuwe manieren geven om het Peekling-ecosysteem aan te passen, uit te breiden en eraan bij te dragen.
-
-Deze ervaringen zijn gepland en nog niet openbaar beschikbaar. Zodra ze klaar zijn, vind je ze bij deze organisatie.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>

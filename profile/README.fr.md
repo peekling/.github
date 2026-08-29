@@ -10,7 +10,18 @@ Un Peekling est un petit compagnon animé avec son apparence, sa personnalité e
 
 Derrière les personnages, Peekling est un environnement d’exécution open source pour navigateur, conçu pour de petits personnages animés composés uniquement de données. Il leur permet de bouger et de réagir sans envoyer de télémétrie ni de données de la page à un serveur.
 
-## Vous êtes ici chez vous
+Chaque élément a un rôle précis. Le moteur charge et affiche le personnage. Un Pack contient ses illustrations et ses capacités. Un Plan contrôlé par le développeur décide quand il réagit. Les skills guident les développeurs et les artistes qui le créent, l’intègrent, le vérifient et le partagent.
+
+### Principes
+
+- **Un seul moteur, plusieurs environnements.** Le même runtime peut accueillir un Peekling sur un site web, dans une future application de bureau ou dans une extension de navigateur.
+- **Les personnages sont des données, pas du code.** Les Packs contiennent des illustrations et des données d’animation validées. Ils ne peuvent pas exécuter de scripts ni prendre le contrôle de la page hôte.
+- **L’hôte garde le contrôle.** Les développeurs choisissent le Pack, le Plan, les règles et la présentation. Les visiteurs peuvent laisser tous les Peeklings se reposer sans compte ni serveur.
+- **Aucune télémétrie, aucun serveur.** Le runtime fonctionne dans le navigateur. Les projets peuvent épingler les versions des paquets ou héberger les fichiers eux-mêmes.
+- **Les skills sont des dossiers portables.** Chaque workflow se trouve dans un dossier `SKILL.md` que les développeurs et les artistes peuvent utiliser avec des agents compatibles.
+- **Les licences sont explicites.** Le runtime, les outils, les Packs officiels et les skills utilisent Apache-2.0. Chaque Pack précise les droits associés à ses illustrations.
+
+## Tout le monde est bienvenu ici
 
 Que vous soyez venu rencontrer les personnages, apprendre quelque chose, dessiner, écrire, animer, programmer, enseigner, créer pour une entreprise ou simplement découvrir ce qui prend forme, nous sommes heureux que vous nous ayez trouvés.
 
@@ -18,15 +29,27 @@ Les élèves, les étudiants et les personnes qui créent pour la première fois
 
 Quelle que soit la raison de votre présence, la curiosité suffit pour commencer.
 
-## Venez le créer avec nous
+## Participer
 
-Vous n’avez pas besoin d’arriver avec du code ou une idée aboutie. Parcourez le projet, posez une question, partagez vos impressions, imaginez un personnage ou dites-nous où un Peekling pourrait se sentir chez lui. Si vous repérez quelque chose à améliorer, ouvrez une issue ou envoyez une contribution ciblée. L’art, les histoires, la documentation et le code sont autant de façons d’aider.
+Vous n’avez pas besoin d’arriver avec du code ou une idée aboutie. Choisissez l’endroit où vous vous sentez à votre place :
 
-## Dépôts Peekling
+- **Développez le runtime** dans [peekling-engine](https://github.com/peekling/peekling-engine).
+- **Dessinez, animez ou améliorez un personnage** dans [peekling-characters](https://github.com/peekling/peekling-characters).
+- **Créez un workflow pour les développeurs ou les artistes** dans [peekling-skills](https://github.com/peekling/peekling-skills).
+- **Aidez à façonner la future application de bureau** dans [peekling-desktop](https://github.com/peekling/peekling-desktop), bientôt disponible.
+- **Amenez les Peeklings dans Chrome** avec [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension), bientôt disponible.
+
+Ajoutez une étoile aux projets que vous souhaitez voir grandir. Les issues, les pull requests ciblées, les idées de personnages, les illustrations, les histoires et la documentation nous aident aussi.
+
+## Ce que nous publions
 
 | Dépôt | Description |
 | --- | --- |
-| [peekling-characters](https://github.com/peekling/peekling-characters) | Le dépôt des packs de personnages officiels. |
+| [peekling-engine](https://github.com/peekling/peekling-engine) | Le runtime de navigateur sans dépendance, les outils de validation, la CLI et les intégrations qui font bouger et réagir les Peeklings sans prendre le contrôle de la page. |
+| [peekling-characters](https://github.com/peekling/peekling-characters) | Les Packs de personnages officiels composés uniquement de données. Chaque Pack contient ses illustrations, son identité, ses états, son rythme et sa licence. |
+| [peekling-skills](https://github.com/peekling/peekling-skills) | Des workflows portables pour agents afin de concevoir, créer, intégrer, auditer et publier des Packs Peekling. |
+| [peekling-desktop](https://github.com/peekling/peekling-desktop) | Un foyer local sur le bureau pour les Peeklings. Bientôt disponible. |
+| [peekling-chrome-extension](https://github.com/peekling/peekling-chrome-extension) | Une extension Chrome qui amène les Peeklings sur les pages de votre choix. Bientôt disponible. |
 
 ## Rencontrez Peek
 
@@ -47,22 +70,6 @@ Peekling grandit en dévoilant un élément public à la fois. À mesure que de 
 Certaines étapes de ce parcours sont encore à venir. Nous ne les présenterons que lorsqu’elles seront prêtes, et chaque élément public doit permettre à la personne suivante de participer plus facilement.
 
 Peekling est open source et proposé sous licence Apache 2.0.
-
-<!--
-TEXTE POUR LE FUTUR ÉCOSYSTÈME PUBLIC
-Conservez ce bloc en commentaire jusqu’à ce que chaque destination soit prête à accueillir le public.
-Remplacez les liens temporaires du site web et de l’espace d’expérimentation avant de retirer le commentaire.
-
-## Un écosystème ludique prend forme
-
-Peekling évolue au-delà des packs de personnages individuels pour devenir un espace accueillant où découvrir, créer et partager des compagnons expressifs pour le web.
-
-- **[Le site web de Peekling](#replace-with-website-url)** présentera le projet, ses personnages et les idées qui nous poussent à rendre le web un peu plus vivant.
-- **[Un espace d’expérimentation interactif](#replace-with-playground-url)** permettra de rencontrer facilement les personnages, de découvrir leur personnalité et de faire des essais avant d’en ajouter un à un projet.
-- **[Davantage de composants open source](https://github.com/peekling)** offriront aux développeurs et aux créateurs de nouvelles façons de personnaliser et d’étendre l’écosystème Peekling, mais aussi d’y contribuer.
-
-Ces expériences sont prévues, mais ne sont pas encore accessibles au public. Lorsqu’elles seront prêtes, vous les trouverez dans cette organisation.
--->
 
 <p align="center" dir="ltr">
   <a href="./README.md">🇺🇸</a> · <a href="./README.es.md">🇪🇸</a> · <a href="./README.zh-CN.md">🇨🇳</a> · <a href="./README.ko.md">🇰🇷</a> · <a href="./README.ja.md">🇯🇵</a> · <a href="./README.nl.md">🇳🇱</a> · <a href="./README.ar.md">🇸🇦</a> · <a href="./README.vi.md">🇻🇳</a> · <a href="./README.ru.md">🇷🇺</a> · <a href="./README.fr.md">🇫🇷</a> · <a href="./README.hi.md">🇮🇳</a> · <a href="./README.pt-BR.md">🇧🇷</a> · <a href="./README.de.md">🇩🇪</a> · <a href="./README.it.md">🇮🇹</a> · <a href="./README.id.md">🇮🇩</a> · <a href="./README.tr.md">🇹🇷</a> · <a href="./README.pl.md">🇵🇱</a> · <a href="./README.bn.md">🇧🇩</a>
