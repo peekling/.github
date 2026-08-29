@@ -25,7 +25,11 @@ Cada parte tem uma função clara. O motor carrega e renderiza. Um Pack guarda a
 
 Não importa se você veio conhecer os personagens, aprender algo novo, desenhar, escrever, animar, programar, ensinar, criar para uma empresa ou apenas ver o que está ganhando forma. Ficamos felizes que você tenha nos encontrado.
 
-Estudantes e pessoas criando pela primeira vez podem experimentar. Artistas e escritores podem imaginar novas personalidades. Quem desenvolve pode dar vida às interações. Empresas podem ajudar a tornar os espaços digitais mais humanos. Quem simplesmente gosta de ter um pequeno companheiro por perto também faz parte dessa história por inteiro.
+- Estudantes e pessoas criando pela primeira vez podem experimentar.
+- Artistas e escritores podem imaginar novas personalidades.
+- Quem desenvolve pode dar vida às interações.
+- Empresas podem ajudar a tornar os espaços digitais mais humanos.
+- Quem simplesmente gosta de ter um pequeno companheiro por perto também faz parte dessa história por inteiro.
 
 Seja qual for o motivo que trouxe você até aqui, a curiosidade é suficiente para começar.
 

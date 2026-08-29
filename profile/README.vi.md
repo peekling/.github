@@ -25,7 +25,11 @@ Mỗi phần có một nhiệm vụ rõ ràng. Engine tải và hiển thị nh�
 
 Dù bạn đến để gặp các nhân vật, học điều mới, vẽ, viết, làm hoạt họa, lập trình, giảng dạy, xây dựng cho một công ty hay chỉ đơn giản là xem điều gì đang dần thành hình, chúng tôi rất vui vì bạn đã tìm thấy nơi này.
 
-Học sinh, sinh viên và những người mới bắt đầu sáng tạo có thể tự do thử nghiệm. Nghệ sĩ và người viết có thể hình dung những cá tính mới. Nhà phát triển có thể thổi sức sống vào các tương tác. Doanh nghiệp có thể góp phần làm cho không gian số trở nên gần gũi hơn. Những người đơn giản chỉ thích có một người bạn nhỏ bên cạnh cũng là một phần quan trọng không kém trong bức tranh này.
+- Học sinh, sinh viên và những người mới bắt đầu sáng tạo có thể tự do thử nghiệm.
+- Nghệ sĩ và người viết có thể hình dung những cá tính mới.
+- Nhà phát triển có thể thổi sức sống vào các tương tác.
+- Doanh nghiệp có thể góp phần làm cho không gian số trở nên gần gũi hơn.
+- Những người đơn giản chỉ thích có một người bạn nhỏ bên cạnh cũng là một phần quan trọng không kém trong bức tranh này.
 
 Dù điều gì đưa bạn đến đây, chỉ cần sự tò mò là đủ để bắt đầu.
 

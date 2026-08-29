@@ -25,7 +25,11 @@ Jeder Teil hat eine klare Aufgabe. Die Engine lädt und rendert. Ein Pack enthä
 
 Ob du die Figuren kennenlernen, etwas Neues lernen, zeichnen, schreiben, animieren, programmieren, unterrichten, etwas für ein Unternehmen entwickeln oder einfach sehen möchtest, was hier entsteht, wir freuen uns, dass du uns gefunden hast.
 
-Lernende und Menschen, die zum ersten Mal etwas gestalten, können experimentieren. Kunstschaffende und Schreibende können sich neue Persönlichkeiten ausdenken. Entwicklerinnen und Entwickler können Interaktionen zum Leben erwecken. Unternehmen können dazu beitragen, digitale Räume menschlicher zu machen. Auch wer sich einfach über einen kleinen Begleiter in der Nähe freut, gehört genauso zu diesem Bild.
+- Lernende und Menschen, die zum ersten Mal etwas gestalten, können experimentieren.
+- Kunstschaffende und Schreibende können sich neue Persönlichkeiten ausdenken.
+- Entwicklerinnen und Entwickler können Interaktionen zum Leben erwecken.
+- Unternehmen können dazu beitragen, digitale Räume menschlicher zu machen.
+- Auch wer sich einfach über einen kleinen Begleiter in der Nähe freut, gehört genauso zu diesem Bild.
 
 Was dich auch hierherführt, Neugier genügt für den Anfang.
 

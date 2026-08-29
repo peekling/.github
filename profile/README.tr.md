@@ -25,7 +25,11 @@ Her parçanın işi bellidir. Engine karakteri yükler ve görüntüler. Pack, k
 
 Karakterlerle tanışmak, yeni bir şey öğrenmek, çizmek, yazmak, animasyon veya kod üretmek, öğretmek, bir şirket için geliştirmek ya da yalnızca nelerin şekillendiğini görmek için gelmiş olabilirsiniz. Sizi buraya getiren ne olursa olsun, bizi bulduğunuza sevindik.
 
-Öğrenciler ve ilk kez bir şey üretenler deneyebilir. Sanatçılar ve yazarlar yeni kişilikler hayal edebilir. Geliştiriciler etkileşimlere hayat verebilir. Şirketler dijital alanların daha insani hissettirmesine katkıda bulunabilir. Etrafında küçük bir yol arkadaşı olmasından hoşlananlar da bu tablonun aynı ölçüde önemli bir parçasıdır.
+- Öğrenciler ve ilk kez bir şey üretenler deneyebilir.
+- Sanatçılar ve yazarlar yeni kişilikler hayal edebilir.
+- Geliştiriciler etkileşimlere hayat verebilir.
+- Şirketler dijital alanların daha insani hissettirmesine katkıda bulunabilir.
+- Etrafında küçük bir yol arkadaşı olmasından hoşlananlar da bu tablonun aynı ölçüde önemli bir parçasıdır.
 
 Buraya gelme nedeniniz ne olursa olsun, başlamak için merak yeterlidir.
 
